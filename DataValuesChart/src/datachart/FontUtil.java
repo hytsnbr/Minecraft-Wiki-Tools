@@ -45,7 +45,7 @@ public class FontUtil {
         // or MS Sans Serif font (they're both the same font).
         // For Linux or MacOSX 10.4 and older, it defaults to the system Sans Serif font
         String fonts[] = GraphicsEnvironment.getLocalGraphicsEnvironment().getAvailableFontFamilyNames();
-        Pattern sansRegex = Pattern.compile("^(MS|Microsoft)[ \\w]*(Sans)[ \\w]*(Serif)[ \\w]*$");
+        Pattern sansRegex = Pattern.compile("^(MS|Microsoft)[ \\w]*(UI)[ \\w]*(Gothic)[ \\w]*$");
         ArrayList<String> potentialFonts = new ArrayList<String>();
 
         for (String fontName : fonts) {
