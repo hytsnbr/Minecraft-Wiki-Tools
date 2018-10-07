@@ -1,2 +1,2 @@
 # Minecraft-Wiki-Tools
-A collection of useful tools for the Minecraft Wiki
+Minecraft Wiki で使用するツールです（主に自分用）
