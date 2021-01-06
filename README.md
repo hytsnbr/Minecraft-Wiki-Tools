@@ -1,2 +1,3 @@
 # Minecraft-Wiki-Tools
-Minecraft Wiki で使用するツールです（主に自分用）
+Useful tools for the [Minecraft Wiki (ja)](https://minecraft-ja.gamepedia.com/).
+※ Forked from [Jocopa3's original project](https://github.com/jocopa3/Minecraft-Wiki-Tools).
