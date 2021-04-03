@@ -1,0 +1,3208 @@
+Java EditionとBedrock Edtionの翻訳の差異一覧
+
+{| class="wikitable sortable"
+|-
+! 原文 !! Java Edition（21w11a） !! Bedrock Edition（1.16.230.50）
+|-
+| %s says %s || %s が、%s、と言いました || %s の発言: %s
+|-
+| Tab || Tab || タブ
+|-
+| Edit World || ワールドを編集 || 世界を編集
+|-
+| Space || Space || SPACE キー
+|-
+| Acquire Hardware || 金属を手に入れる || メタルに決めろ
+|-
+| Smelt an iron ingot || 鉄インゴットを製錬する || 鉄の延べ棒を精錬しよう。
+|-
+| Relieve a Blaze of its rod || ブレイズロッドを手に入れる || ロッドからブレイズを解放しよう。
+|-
+| Construct a better pickaxe || より良いツルハシをつくる || より質の高いツルハシを作ろう。
+|-
+| Beaconator || ビーコネーター || ビーコン使い
+|-
+| Return to Sender || 差出人に返送 || 仕返し
+|-
+| Destroy a Ghast with a fireball || 火の玉をガストに打ち返す || 火の玉をガストに打ち返そう。
+|-
+| Monster Hunter || モンスターハンター || モンスター退治
+|-
+| Local Brewery || 町のお薬屋さん || 町の薬屋さん
+|-
+| Brew a potion || ポーションを醸造する || ポーションを調合しよう。
+|-
+| The End? || おしまい？ || 果ての世界?
+|-
+| ??? || ？？？ || ???
+|-
+| Edit || 編集 || 編集する
+|-
+| Must be an opped player in creative mode || オペレーター権限のあるクリエイティブモードのプレイヤーでなくてはなりません || オペレーター権限のあるプレイヤーが、クリエイティブ モードの場合のみ可能です
+|-
+| Command blocks are not enabled on this server || このサーバーではコマンドブロックが有効ではありません || コマンド ブロックは、このサーバー上では有効になっていません
+|-
+| Set Console Command for Block || コマンドブロックが実行するコンソールコマンド || コマンドブロックのコンソールコマンドを設定
+|-
+| Command set: %s || コマンドを設定しました：%s || コマンドを設定しました: %s
+|-
+| Mob Follow Range || Mobの追跡範囲 || モブの追跡範囲
+|-
+| Speed || 移動速度上昇 || スピード
+|-
+| Horse Jump Strength || ウマの跳躍力 || 馬の跳躍力
+|-
+| Enter Book Title: || 本のタイトルを入力してください： || 本のタイトルを入力してください:
+|-
+| Note! When you sign the book, it will no longer be editable. || 注意！署名をすると、二度と編集ができなくなります。 || 注意! 署名をすると、二度と編集できなくなります!
+|-
+| Tattered || ボロボロ || すり減った
+|-
+| Page %1$s of %2$s || %1$s／%2$sページ || %1$s/%2$s ページ
+|-
+| Height limit for building is %s blocks || 建築限界高度は%sブロックです || 建築高度限界は %s ブロックです
+|-
+| Locked || ロックされています || ロック中
+|-
+| Unlocked || 解除しました || ロック解除中
+|-
+| Cannot send chat message || チャットメッセージを送信できません || チャット メッセージを送信できません
+|-
+| Copy to Clipboard || コピー || クリップボードにコピー
+|-
+| Are you sure you want to open the following website? || このウェブサイトを開きますか？ || 本当にこのウェブサイトを開きますか?
+|-
+| Do you want to open this link or copy it to your clipboard? || このリンクをブラウザで開きますか？それともクリップボードにコピーしますか？ || このリンクをブラウザで開きますか? それともクリップボードにコピーしますか?
+|-
+| Never open links from people that you don't trust! || 信頼できないリンクは絶対に開かないでください || 信頼していない人からのリンクは絶対に開かないで下さい!
+|-
+| Line Spacing || 行間 || 行の間隔
+|-
+| Large Chest || ラージチェスト || 大きなチェスト
+|-
+| Inventory || インベントリ || 持ち物
+|-
+| Black || 黒色 || 黒
+|-
+| Blue || 青色 || 青
+|-
+| Green || 緑色 || 緑
+|-
+| Red || 赤色 || 赤
+|-
+| White || 白色 || 白
+|-
+| Impulse || インパルス || 衝撃
+|-
+| Repeat || リピート || 反復
+|-
+| Needs Redstone || 動力が必要 || レッドストーンが必要
+|-
+| Always Active || 常時実行 || 常にアクティブ
+|-
+| There are no custom bossbars active || アクティブなカスタムボスバーがありません || 有効なカスタム ボスバーはありません
+|-
+| Block placed || ブロックが置かれる || ブロックを設置しました
+|-
+| Stopping the server || サーバーを停止します || サーバーを停止しています
+|-
+| Target either already has the tag or has too many tags || 対象は既にそのタグを持っているか、これ以上タグを追加できません || ターゲットに既に指定のタグがあるか、タグが多すぎます
+|-
+| Target does not have this tag || 対象はそのタグを持っていません || ターゲットにはこのタグがありません
+|-
+| Logging in... || ログイン中… || ログイン中...
+|-
+| Connecting to the server... || サーバーに接続中… || サーバーに接続中...
+|-
+| Brewing Stand || 醸造台 || 調合台
+|-
+| Dispenser || ディスペンサー || 発射装置
+|-
+| %s . . . ? || %s . . .？ || %s . . . ?
+|-
+| 1 Lapis Lazuli || ラピスラズリ1個 || ラピスラズリ 1個
+|-
+| 1 Enchantment Level || 1エンチャントレベル || 1 エンチャントレベル
+|-
+| Ender Chest || エンダーチェスト || エンダー チェスト
+|-
+| Item Hopper || ホッパー || アイテム ホッパー
+|-
+| %s is locked! || %sはロックされています || %s はロックされている!
+|-
+| Loom || 機織り機 || 織機
+|-
+| Repair & Name || 修繕・名付け || 修理 & 名づけ
+|-
+| Too Expensive! || コストが高すぎます！ || コストが高すぎます!
+|-
+| Repair & Disenchant || 修繕・エンチャント除去 || 修理とエンチャント解除
+|-
+| Stonecutter || 石切台 || ストーン カッター
+|-
+| Upgrade Gear || 装備の強化 || 装備をアップグレードする
+|-
+| Shulker Box || シュルカーボックス || シュルカー ボックス
+|-
+| Barrel || 樽 || タル
+|-
+| Save || セーブ || 保存
+|-
+| Reset Keys || 操作設定をリセット || キー設定のリセット
+|-
+| Controls || 操作設定 || 操作方法
+|-
+| Depth Base Size || 深度基本量 || 奥行きベースサイズ
+|-
+| Biome Depth Offset || バイオーム深度偏差 || バイオームの奥行きの偏り
+|-
+| Biome Depth Weight || バイオーム深度比重 || バイオームの奥行きのウェイト
+|-
+| Biome Scale Offset || バイオーム規模偏差 || バイオームスケールの偏り
+|-
+| Biome Scale Weight || バイオーム規模比重 || バイオームスケールのウェイト
+|-
+| Biome Size || バイオームの大きさ || バイオームのサイズ
+|-
+| Center Height || 中心高度 || 中心の高さ
+|-
+| This will overwrite your current || 現在の設定を上書きします。 || 現在の設定を上書きしてます
+|-
+| settings and cannot be undone. || 元に戻すことはできません。 || 設定の復元はできません。
+|-
+| Warning! || 警告 || 警告!
+|-
+| Coordinate Scale || 座標尺 || スケール調整
+|-
+| Spawn Tries || 生成頻度 || スポーンさせてみる
+|-
+| Defaults || デフォルトに戻す || デフォルト
+|-
+| Depth Noise Exponent || 深度ノイズ指数 || 奥行きノイズ指数
+|-
+| Depth Noise Scale X || 深度ノイズ規模 X || 奥行きノイズスケール X
+|-
+| Depth Noise Scale Z || 深度ノイズ規模 Z || 奥行きノイズスケール Z
+|-
+| Dungeon Count || ダンジョンの数 || ダンジョン合計数
+|-
+| Height Scale || 高度規模 || 高さスケール
+|-
+| Lava Lake Rarity || 溶岩湖の希少度 || 溶岩湖の出現率
+|-
+| Lower Limit Scale || 規模下限 || スケール下限
+|-
+| Main Noise Scale X || 主要ノイズ規模 X || メインノイズスケール X
+|-
+| Main Noise Scale Y || 主要ノイズ規模 Y || メインノイズスケール Y
+|-
+| Main Noise Scale Z || 主要ノイズ規模 Z || メインノイズスケール Z
+|-
+| Max. Height || 高度上限 || 高さ上限
+|-
+| Min. Height || 高度下限 || 高さ下限
+|-
+| Next Page || 次のページへ || 次へ
+|-
+| Advanced Settings (Expert Users Only!) || 高度な設定（上級者向け） || 高度な設定 (上級ユーザーのみ!)
+|-
+| Extra Advanced Settings (Expert Users Only!) || さらに高度な設定（上級者向け） || その他の高度な設定 (上級ユーザーのみ!)
+|-
+| Good Luck || 幸運を祈る || グッドラック
+|-
+| Water World || 水の世界 || 水世界
+|-
+| Customize World Presets || カスタマイズワールドのプリセット || 世界プリセットをカスタマイズする
+|-
+| Previous Page || 前のページへ || 前へ
+|-
+| Randomize || ランダム化 || ランダマイズ
+|-
+| River Size || 川の大きさ || 川のサイズ
+|-
+| Sea Level || 海面高度 || 海面の高さ
+|-
+| Spawn Size || 最大生成数 || スポーン サイズ
+|-
+| Spread Height || 分散高度 || 出現高度
+|-
+| Height Stretch || 高度伸長 || 高さ伸び
+|-
+| Upper Limit Scale || 規模上限 || スケール上限
+|-
+| Lava Lakes || 溶岩湖 || マグマ溜まり
+|-
+| Lava Oceans || 溶岩の海 || マグマの海
+|-
+| Ocean Monuments || 海底神殿 || 海底遺跡
+|-
+| Ravines || 峡谷 || 渓谷
+|-
+| Temples || 寺院 || ジャングルの寺院
+|-
+| Water Lake Rarity || 池の希少度 || 池の出現率
+|-
+| Remove Layer || 地層を削除 || レイヤーを削除
+|-
+| Layer Material || 地層の構成物 || レイヤーの構成物
+|-
+| Alternatively, here's some we made earlier! || もしくは、次のプリセットから選べます || もしくは、次のプリセットから選んでください!
+|-
+| Select a Preset || プリセットの選択 || プリセットを選択
+|-
+| New World || 新規ワールド || 新たな世界
+|-
+| Bonus Chest || ボーナスチェスト || ボーナス チェスト
+|-
+| Delete || Delete || 削除
+|-
+| Adventure || 冒険 || アドベンチャー
+|-
+| World Type || ワールドタイプ || 世界のタイプ
+|-
+| %s chunks || %sチャンク || %s チャンク
+|-
+| Blocked || ブロック中 || ブロック済み
+|-
+| Join Server || サーバーに接続 || サーバーに参加
+|-
+| World || ワールド || 世界
+|-
+| %s %s || %2$s %1$s || %s %s
+|-
+| Search... || 検索… || 検索中...
+|-
+| %1$s was squashed by a falling anvil || %1$sは落下してきた金床に押しつぶされた || %1$s は落下した金床に潰された
+|-
+| %1$s was shot by %2$s || %1$sは%2$sに射抜かれた || %1$s は %2$s に射抜かれた
+|-
+| %1$s was shot by %2$s using %3$s || %1$sは%2$sの%3$sで射抜かれた || %1$s は %2$s の %3$s で射抜かれた
+|-
+| %1$s was pricked to death || %1$sはサボテンが刺さって死んだ || %1$s は刺されて力尽きた
+|-
+| %1$s walked into a cactus whilst trying to escape %2$s || %1$sは%2$sから逃げようとしてサボテンにぶつかった || %1$s は %2$s から逃げようとするうちにサボテンに足を踏み入れた
+|-
+| %1$s drowned || %1$sは溺れ死んだ || %1$s は溺れて力尽きた
+|-
+| %1$s drowned whilst trying to escape %2$s || %1$sは%2$sから逃れようとして溺れ死んだ || %1$s は %2$s から逃れようとするうちに溺れてしまった
+|-
+| %1$s blew up || %1$sは爆発に巻き込まれた || %1$s は爆発した
+|-
+| %1$s was blown up by %2$s || %1$sは%2$sに爆破された || %1$s は %2$s に吹き飛ばされた
+|-
+| %1$s hit the ground too hard || %1$sは地面に強く激突した || %1$s は落下の衝撃で力尽きた
+|-
+| %1$s was squashed by a falling block || %1$sは落下してきたブロックに押しつぶされた || %1$s は落下したブロックに潰された
+|-
+| %1$s was fireballed by %2$s || %1$sは%2$sに火だるまにされた || %1$s は %2$s に火だるまにされた
+|-
+| %1$s was fireballed by %2$s using %3$s || %1$sは%2$sの%3$sで火だるまにされた || %1$s は %2$s の %3$s で火だるまにされた
+|-
+| %1$s went off with a bang || %1$sは花火の爆発に巻き込まれた || %1$s は大成功しました
+|-
+| %1$s experienced kinetic energy || %1$sは運動エネルギーを体験した || %1$s は身をもって運動エネルギーを感じた
+|-
+| %1$s died || %1$sは死んだ || %1$s は力尽きた
+|-
+| %1$s was killed by %2$s using magic || %1$sは%2$sの魔法で殺された || %1$s は %2$s の魔法により力尽きた
+|-
+| %1$s was killed by %2$s using %3$s || %1$sは%2$sの%3$sで殺された || %1$s は %2$s の %3$s により力尽きた
+|-
+| %1$s went up in flames || %1$sは炎に巻かれた || %1$s は火の中で力尽きた
+|-
+| %1$s walked into fire whilst fighting %2$s || %1$sは%2$sと戦いながら火の中へ踏み入った || %1$s は %2$s と戦ううちに火の中へ歩いて行った
+|-
+| %1$s suffocated in a wall || %1$sは壁の中で窒息した || %1$s は壁に飲み込まれた
+|-
+| %1$s tried to swim in lava || %1$sは溶岩遊泳を試みた || %1$s は溶岩に飲み込まれた
+|-
+| %1$s tried to swim in lava to escape %2$s || %1$sは%2$sから逃れようと溶岩遊泳を試みた || %1$s は %2$s から逃れるために溶岩の中を泳ごうとした
+|-
+| %1$s was struck by lightning || %1$sは雷に打たれた || %1$s は雷に打たれた
+|-
+| %1$s was killed by magic || %1$sは魔法で殺された || %1$s は魔法により力尽きた
+|-
+| %1$s was slain by %2$s || %1$sは%2$sに殺害された || %1$sは%2$sに倒された
+|-
+| %1$s burned to death || %1$sはこんがりと焼けた || %1$s は火によって力尽きた
+|-
+| %1$s was burnt to a crisp whilst fighting %2$s || %1$sは%2$sと戦いながらカリカリに焼けた || %1$s は %2$s と戦ううちにカリカリに焼かれた
+|-
+| %1$s fell out of the world || %1$sは奈落の底へ落ちた || %1$s は世界の外へ落ちた
+|-
+| %1$s was slain by %2$s using %3$s || %1$sは%2$sの%3$sで殺害された || %1$s は %2$s の %3$s により倒された
+|-
+| %1$s starved to death || %1$sは飢え死にした || %1$s は飢えて力尽きた
+|-
+| %1$s was killed trying to hurt %2$s || %1$sは%2$sを傷つけようとして殺された || %2$s に損害を与えようとした %1$s が倒された
+|-
+| %1$s was pummeled by %2$s || %1$sは%2$sによってぺしゃんこにされた || %1$s は %2$s に叩き潰された
+|-
+| %1$s was pummeled by %2$s using %3$s || %1$sは%2$sの%3$sでぺしゃんこにされた || %1$s は %2$s に %3$s で打倒された
+|-
+| %1$s withered away || %1$sは干からびた || %1$s は弱り果てた
+|-
+| %1$s fell from a high place || %1$sは高い所から落ちた || %1$s は高い所から落ちた
+|-
+| %1$s fell off a ladder || %1$sははしごから落ちた || %1$s ははしごから落ちた
+|-
+| %1$s fell off some vines || %1$sはツタから滑り落ちた || %1$s は、つるから落ちた
+|-
+| %1$s was doomed to fall by %2$s || %1$sは%2$sに落とされる運命だった || %1$s は %2$s によって滅びる運命にあった
+|-
+| %1$s was doomed to fall by %2$s using %3$s || %1$sは%2$sの%3$sで落とされる運命だった || %1$s は %2$s の使う %3$s によって滅びる運命にあった
+|-
+| %1$s fell too far and was finished by %2$s || %1$sは高いところから落下し、%2$sによってとどめを刺された || %1$s はあまりに高いところから落ち、%2$s にとどめを刺された
+|-
+| %1$s fell too far and was finished by %2$s using %3$s || %1$sは高いところから落下し、%2$sの%3$sによってとどめを刺された || %1$s はあまりに高いところから落ち、%2$s に %3$s を使ってとどめを刺された
+|-
+| %1$s was doomed to fall || %1$sは落ちる運命だった || %1$s は滅びる運命にあった
+|-
+| Are you sure you want to quit? || 終了しますか？ || 終了してもよろしいですか?
+|-
+| Day Two || 2日目 || 2 日目
+|-
+| Day Three || 3日目 || 3 日目
+|-
+| Day Four || 4日目 || 4 日目
+|-
+| This is your last day! || 今日が最終日です！ || 今日が最終日です!
+|-
+| Your time is almost up! || もうすぐ時間切れです！ || もうすぐ時間切れです!
+|-
+| Demo time's up! || 時間切れです！ || 時間切れです!
+|-
+| Purchase Now! || 今すぐ購入！ || 今すぐ購入!
+|-
+| Continue Playing! || プレイを続行！ || プレイを続ける!
+|-
+| Minecraft Demo Mode || Minecraftデモ版 || Mnecraft デモ版
+|-
+| Remaining time: %s || 残り時間：%s || 残り時間: %s
+|-
+| Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again. || このワールドの難易度を固定しますか？ 設定後、このワールドの難易度は常に%1$sになり、以後再び変更することはできなくなります。 || この世界の難易度を固定しますか? 設定後、この世界の難易度は常に %1$s になり、以後再び変更する事は出来なくなります。
+|-
+| Lock World Difficulty || ワールドの難易度の固定 || 世界の難易度の固定
+|-
+| Disconnected by Server || サーバーから切断されました || サーバーにより切断されました
+|-
+| End of stream || 接続が終了されました || ストリーミングが終了しました
+|-
+| Connection Lost || 接続を維持できません || 接続が切断されました
+|-
+| Quitting || 終了中 || 終了しています
+|-
+| Kicked for spamming || スパム行為のために退出させられました || スパム行為のために追放されました
+|-
+| Bad Omen || 不吉な予感 || 凶兆
+|-
+| Power || 射撃ダメージ増加 || パワー
+|-
+| Flame || フレイム || 火炎
+|-
+| Punch || パンチ || 衝撃
+|-
+| Multishot || 拡散 || マルチショット
+|-
+| Quick Charge || 高速装填 || クイック チャージ
+|-
+| Sharpness || ダメージ増加 || 鋭さ
+|-
+| Bane of Arthropods || 虫特効 || 虫殺し
+|-
+| Smite || アンデッド特効 || 聖なる力
+|-
+| Efficiency || 効率強化 || 効率
+|-
+| Frost Walker || 氷渡り || 氷上歩行
+|-
+| VII || VII || Ⅶ
+|-
+| VIII || VIII || Ⅷ
+|-
+| IX || IX || Ⅸ
+|-
+| Looting || ドロップ増加 || アイテムボーナス
+|-
+| Protection || ダメージ軽減 || 防護
+|-
+| Feather Falling || 落下耐性 || 落下軽減
+|-
+| Fire Protection || 火炎耐性 || 防火
+|-
+| Projectile Protection || 飛び道具耐性 || 間接攻撃耐性
+|-
+| Soul Speed || ソウルスピード || 魂の速度
+|-
+| Thorns || 棘の鎧 || とげ
+|-
+| Depth Strider || 水中歩行 || 水中移動
+|-
+| Aqua Affinity || 水中採掘 || 水中作業
+|-
+| Channeling || 召雷 || チャネリング
+|-
+| Loyalty || 忠誠 || 忠誠心
+|-
+| Impaling || 水生特効 || 串刺し
+|-
+| Area Effect Cloud || エリアエフェクトクラウド || 範囲効果の雲
+|-
+| Bee || ミツバチ || ハチ
+|-
+| Cow || ウシ || 牛
+|-
+| Drowned || ドラウンド || 溺死ゾンビ
+|-
+| Egg || 卵 || タマゴ
+|-
+| Elder Guardian || エルダーガーディアン || エルダー ガーディアン
+|-
+| Ender Dragon || エンダードラゴン || エンダー ドラゴン
+|-
+| Salmon || サケ || 鮭
+|-
+| Piglin Brute || ピグリンブルート || Piglin ブルート
+|-
+| Hoglin || ホグリン || Hoglin
+|-
+| Horse || ウマ || 馬
+|-
+| Iron Golem || アイアンゴーレム || アイアン ゴーレム
+|-
+| Leash Knot || リードの結び目 || 首ひもの結び目
+|-
+| Lightning Bolt || 雷 || 雷雨
+|-
+| Magma Cube || マグマキューブ || マグマ キューブ
+|-
+| Minecart with TNT || TNT付きトロッコ || TNT 火薬付きトロッコ
+|-
+| Painting || 絵画 || 絵
+|-
+| Pig || ブタ || 豚
+|-
+| Piglin || ピグリン || Piglin
+|-
+| Pillager || ピリジャー || 略奪者
+|-
+| Polar Bear || シロクマ || ホッキョクグマ
+|-
+| Sheep || ヒツジ || 羊
+|-
+| Skeleton Horse || スケルトンホース || スケルトン ホース
+|-
+| Snow Golem || スノウゴーレム || スノー ゴーレム
+|-
+| Turtle || カメ || 亀
+|-
+| Cleric || 聖職者 || 司祭
+|-
+| Fisherman || 釣り人 || 漁師
+|-
+| Leatherworker || 革細工師 || 革職人
+|-
+| Wither || 衰弱 || ウィザー
+|-
+| Wither Skeleton || ウィザースケルトン || ウィザー スケルトン
+|-
+| Wither Skull || ウィザーの頭蓋骨 || ウィザーの頭
+|-
+| Bottle o' Enchanting || エンチャントの瓶 || エンチャントのビン
+|-
+| Zombie Horse || ゾンビホース || ゾンビ馬
+|-
+| Zombified Piglin || ゾンビピグリン || ゾンビ化 Piglin
+|-
+| Server Address || サーバーアドレス || サーバー アドレス
+|-
+| Are you sure you want to remove this server? || このサーバーを削除しますか？ || 本当にこのサーバーを削除しますか?
+|-
+| Adventure Mode || アドベンチャーモード || アドベンチャー モード
+|-
+| Your game mode has been updated to %s || ゲームモードが%sに変更されました || ゲーム モードを %s に更新しました
+|-
+| Creative Mode || クリエイティブモード || クリエイティブ モード
+|-
+| Hardcore Mode! || ハードコアモード || ハードコアモード!
+|-
+| Survival Mode || サバイバルモード || サバイバル モード
+|-
+| Debug Mode || デバッグモード || デバッグ モード
+|-
+| Old || 古いです || 古い
+|-
+| Resource Packs... || リソースパック… || リソース パック...
+|-
+| Enchanting Table || エンチャントテーブル || エンチャント テーブル
+|-
+| Multiplayer || マルチプレイ || マルチプレイヤー
+|-
+| Transportation || 運送 || 移動手段
+|-
+| Destroy Item || アイテムを削除 || アイテム削除
+|-
+| Tipped Arrow || 効能付きの矢 || 効能付き矢
+|-
+| Black Banner || 黒色の旗 || 黒の旗
+|-
+| Blue Banner || 青色の旗 || 青の旗
+|-
+| Black Bordure || 黒色の縁取り || 黒の縁
+|-
+| Blue Bordure || 青色の縁取り || 青の縁
+|-
+| Brown Bordure || 茶色の縁取り || 茶色の縁
+|-
+| Cyan Bordure || 青緑色の縁取り || 水色の縁
+|-
+| Gray Bordure || 灰色の縁取り || 灰色の縁
+|-
+| Green Bordure || 緑色の縁取り || 緑の縁
+|-
+| Light Blue Bordure || 空色の縁取り || 空色の縁
+|-
+| Lime Bordure || 黄緑色の縁取り || 黄緑の縁
+|-
+| Magenta Bordure || 赤紫色の縁取り || 赤紫の縁
+|-
+| Orange Bordure || 橙色の縁取り || オレンジの縁
+|-
+| Pink Bordure || 桃色の縁取り || ピンクの縁
+|-
+| Purple Bordure || 紫色の縁取り || 紫の縁
+|-
+| Red Bordure || 赤色の縁取り || 赤の縁
+|-
+| Light Gray Bordure || 薄灰色の縁取り || 薄灰色の縁
+|-
+| White Bordure || 白色の縁取り || 白の縁
+|-
+| Yellow Bordure || 黄色の縁取り || 黄色の縁
+|-
+| Black Field Masoned || 黒色のレンガ模様 || 黒のレンガ模様
+|-
+| Blue Field Masoned || 青色のレンガ模様 || 青のレンガ模様
+|-
+| Cyan Field Masoned || 青緑色のレンガ模様 || 水色のレンガ模様
+|-
+| Green Field Masoned || 緑色のレンガ模様 || 緑のレンガ模様
+|-
+| Lime Field Masoned || 黄緑色のレンガ模様 || 黄緑のレンガ模様
+|-
+| Magenta Field Masoned || 赤紫色のレンガ模様 || 赤紫のレンガ模様
+|-
+| Orange Field Masoned || 橙色のレンガ模様 || オレンジのレンガ模様
+|-
+| Pink Field Masoned || 桃色のレンガ模様 || ピンクのレンガ模様
+|-
+| Purple Field Masoned || 紫色のレンガ模様 || 紫のレンガ模様
+|-
+| Red Field Masoned || 赤色のレンガ模様 || 赤のレンガ模様
+|-
+| White Field Masoned || 白色のレンガ模様 || 白のレンガ模様
+|-
+| Black Roundel || 黒色の円形 || 黒の円
+|-
+| Blue Roundel || 青色の円形 || 青の円
+|-
+| Brown Roundel || 茶色の円形 || 茶色の円
+|-
+| Cyan Roundel || 青緑色の円形 || 水色の円
+|-
+| Gray Roundel || 灰色の円形 || 灰色の円
+|-
+| Green Roundel || 緑色の円形 || 緑の円
+|-
+| Light Blue Roundel || 空色の円形 || 空色の円
+|-
+| Lime Roundel || 黄緑色の円形 || 黄緑の円
+|-
+| Magenta Roundel || 赤紫色の円形 || 赤紫の円
+|-
+| Orange Roundel || 橙色の円形 || オレンジの円
+|-
+| Pink Roundel || 桃色の円形 || ピンクの円
+|-
+| Purple Roundel || 紫色の円形 || 紫の円
+|-
+| Red Roundel || 赤色の円形 || 赤の円
+|-
+| Light Gray Roundel || 薄灰色の円形 || 薄灰色の円
+|-
+| White Roundel || 白色の円形 || 白の円
+|-
+| Yellow Roundel || 黄色の円形 || 黄色の円
+|-
+| Black Creeper Charge || 黒色のクリーパー模様 || 黒のクリーパー模様
+|-
+| Blue Creeper Charge || 青色のクリーパー模様 || 青のクリーパー模様
+|-
+| Cyan Creeper Charge || 青緑色のクリーパー模様 || 水色のクリーパー模様
+|-
+| Green Creeper Charge || 緑色のクリーパー模様 || 緑のクリーパー模様
+|-
+| Lime Creeper Charge || 黄緑色のクリーパー模様 || 黄緑のクリーパー模様
+|-
+| Magenta Creeper Charge || 赤紫色のクリーパー模様 || 赤紫のクリーパー模様
+|-
+| Orange Creeper Charge || 橙色のクリーパー模様 || オレンジのクリーパー模様
+|-
+| Pink Creeper Charge || 桃色のクリーパー模様 || ピンクのクリーパー模様
+|-
+| Purple Creeper Charge || 紫色のクリーパー模様 || 紫のクリーパー模様
+|-
+| Red Creeper Charge || 赤色のクリーパー模様 || 赤のクリーパー模様
+|-
+| White Creeper Charge || 白色のクリーパー模様 || 白のクリーパー模様
+|-
+| Black Saltire || 黒色の斜め十字 || 黒の斜め十字
+|-
+| Blue Saltire || 青色の斜め十字 || 青の斜め十字
+|-
+| Cyan Saltire || 青緑色の斜め十字 || 水色の斜め十字
+|-
+| Green Saltire || 緑色の斜め十字 || 緑の斜め十字
+|-
+| Lime Saltire || 黄緑色の斜め十字 || 黄緑の斜め十字
+|-
+| Magenta Saltire || 赤紫色の斜め十字 || 赤紫の斜め十字
+|-
+| Orange Saltire || 橙色の斜め十字 || オレンジの斜め十字
+|-
+| Pink Saltire || 桃色の斜め十字 || ピンクの斜め十字
+|-
+| Purple Saltire || 紫色の斜め十字 || 紫の斜め十字
+|-
+| Red Saltire || 赤色の斜め十字 || 赤の斜め十字
+|-
+| White Saltire || 白色の斜め十字 || 白の斜め十字
+|-
+| Black Bordure Indented || 黒色の波形の縁取り || 黒のギザギザな縁
+|-
+| Blue Bordure Indented || 青色の波形の縁取り || 青のギザギザな縁
+|-
+| Brown Bordure Indented || 茶色の波形の縁取り || 茶色のギザギザな縁
+|-
+| Cyan Bordure Indented || 青緑色の波形の縁取り || 水色のギザギザな縁
+|-
+| Gray Bordure Indented || 灰色の波形の縁取り || 灰色のギザギザな縁
+|-
+| Green Bordure Indented || 緑色の波形の縁取り || 緑のギザギザな縁
+|-
+| Light Blue Bordure Indented || 空色の波形の縁取り || 空色のギザギザな縁
+|-
+| Lime Bordure Indented || 黄緑色の波形の縁取り || 黄緑のギザギザな縁
+|-
+| Magenta Bordure Indented || 赤紫色の波形の縁取り || 赤紫のギザギザな縁
+|-
+| Orange Bordure Indented || 橙色の波形の縁取り || オレンジのギザギザな縁
+|-
+| Pink Bordure Indented || 桃色の波形の縁取り || ピンクのギザギザな縁
+|-
+| Purple Bordure Indented || 紫色の波形の縁取り || 紫のギザギザな縁
+|-
+| Red Bordure Indented || 赤色の波形の縁取り || 赤のギザギザな縁
+|-
+| Light Gray Bordure Indented || 薄灰色の波形の縁取り || 薄灰色のギザギザな縁
+|-
+| White Bordure Indented || 白色の波形の縁取り || 白のギザギザな縁
+|-
+| Yellow Bordure Indented || 黄色の波形の縁取り || 黄色のギザギザな縁
+|-
+| Cyan Banner || 青緑色の旗 || 水色の旗
+|-
+| Black Per Bend Sinister || 上に黒色の逆斜め分割 || 黒の左上塗りつぶし
+|-
+| Blue Per Bend Sinister || 上に青色の逆斜め分割 || 青の左上塗りつぶし
+|-
+| Brown Per Bend Sinister || 上に茶色の逆斜め分割 || 茶色の左上塗りつぶし
+|-
+| Cyan Per Bend Sinister || 上に青緑色の逆斜め分割 || 水色の左上塗りつぶし
+|-
+| Gray Per Bend Sinister || 上に灰色の逆斜め分割 || 灰色の左上塗りつぶし
+|-
+| Green Per Bend Sinister || 上に緑色の逆斜め分割 || 緑の左上塗りつぶし
+|-
+| Light Blue Per Bend Sinister || 上に空色の逆斜め分割 || 空色の左上塗りつぶし
+|-
+| Lime Per Bend Sinister || 上に黄緑色の逆斜め分割 || 黄緑の左上塗りつぶし
+|-
+| Magenta Per Bend Sinister || 上に赤紫色の逆斜め分割 || 赤紫の左上塗りつぶし
+|-
+| Orange Per Bend Sinister || 上に橙色の逆斜め分割 || オレンジの左上塗りつぶし
+|-
+| Pink Per Bend Sinister || 上に桃色の逆斜め分割 || ピンクの左上塗りつぶし
+|-
+| Purple Per Bend Sinister || 上に紫色の逆斜め分割 || 紫の左上塗りつぶし
+|-
+| Red Per Bend Sinister || 上に赤色の逆斜め分割 || 赤の左上塗りつぶし
+|-
+| Light Gray Per Bend Sinister || 上に薄灰色の逆斜め分割 || 薄灰色の左上塗りつぶし
+|-
+| White Per Bend Sinister || 上に白色の逆斜め分割 || 白の左上塗りつぶし
+|-
+| Yellow Per Bend Sinister || 上に黄色の逆斜め分割 || 黄色の左上塗りつぶし
+|-
+| Black Per Bend || 上に黒色の斜め分割 || 黒の右上塗りつぶし
+|-
+| Blue Per Bend || 上に青色の斜め分割 || 青の右上塗りつぶし
+|-
+| Brown Per Bend || 上に茶色の斜め分割 || 茶色の右上塗りつぶし
+|-
+| Cyan Per Bend || 上に青緑色の斜め分割 || 水色の右上塗りつぶし
+|-
+| Gray Per Bend || 上に灰色の斜め分割 || 灰色の右上塗りつぶし
+|-
+| Green Per Bend || 上に緑色の斜め分割 || 緑の右上塗りつぶし
+|-
+| Light Blue Per Bend || 上に空色の斜め分割 || 空色の右上塗りつぶし
+|-
+| Lime Per Bend || 上に黄緑色の斜め分割 || 黄緑の右上塗りつぶし
+|-
+| Magenta Per Bend || 上に赤紫色の斜め分割 || 赤紫の右上塗りつぶし
+|-
+| Orange Per Bend || 上に橙色の斜め分割 || オレンジの右上塗りつぶし
+|-
+| Pink Per Bend || 上に桃色の斜め分割 || ピンクの右上塗りつぶし
+|-
+| Purple Per Bend || 上に紫色の斜め分割 || 紫の右上塗りつぶし
+|-
+| Red Per Bend || 上に赤色の斜め分割 || 赤の右上塗りつぶし
+|-
+| Light Gray Per Bend || 上に薄灰色の斜め分割 || 薄灰色の右上塗りつぶし
+|-
+| White Per Bend || 上に白色の斜め分割 || 白の右上塗りつぶし
+|-
+| Yellow Per Bend || 上に黄色の斜め分割 || 黄色の右上塗りつぶし
+|-
+| Black Per Bend Inverted || 下に黒色の斜め分割 || 黒の左下塗りつぶし
+|-
+| Blue Per Bend Inverted || 下に青色の斜め分割 || 青の左下塗りつぶし
+|-
+| Brown Per Bend Inverted || 下に茶色の斜め分割 || 茶色の左下塗りつぶし
+|-
+| Cyan Per Bend Inverted || 下に青緑色の斜め分割 || 水色の左下塗りつぶし
+|-
+| Gray Per Bend Inverted || 下に灰色の斜め分割 || 灰色の左下塗りつぶし
+|-
+| Green Per Bend Inverted || 下に緑色の斜め分割 || 緑の左下塗りつぶし
+|-
+| Light Blue Per Bend Inverted || 下に空色の斜め分割 || 空色の左下塗りつぶし
+|-
+| Lime Per Bend Inverted || 下に黄緑色の斜め分割 || 黄緑の左下塗りつぶし
+|-
+| Magenta Per Bend Inverted || 下に赤紫色の斜め分割 || 赤紫の左下塗りつぶし
+|-
+| Orange Per Bend Inverted || 下に橙色の斜め分割 || オレンジの左下塗りつぶし
+|-
+| Pink Per Bend Inverted || 下に桃色の斜め分割 || ピンクの左下塗りつぶし
+|-
+| Purple Per Bend Inverted || 下に紫色の斜め分割 || 紫の左下塗りつぶし
+|-
+| Red Per Bend Inverted || 下に赤色の斜め分割 || 赤の左下塗りつぶし
+|-
+| Light Gray Per Bend Inverted || 下に薄灰色の斜め分割 || 薄灰色の左下塗りつぶし
+|-
+| White Per Bend Inverted || 下に白色の斜め分割 || 白の左下塗りつぶし
+|-
+| Yellow Per Bend Inverted || 下に黄色の斜め分割 || 黄色の左下塗りつぶし
+|-
+| Black Per Bend Sinister Inverted || 下に黒色の逆斜め分割 || 黒の右下塗りつぶし
+|-
+| Blue Per Bend Sinister Inverted || 下に青色の逆斜め分割 || 青の右下塗りつぶし
+|-
+| Brown Per Bend Sinister Inverted || 下に茶色の逆斜め分割 || 茶色の右下塗りつぶし
+|-
+| Cyan Per Bend Sinister Inverted || 下に青緑色の逆斜め分割 || 水色の右下塗りつぶし
+|-
+| Gray Per Bend Sinister Inverted || 下に灰色の逆斜め分割 || 灰色の右下塗りつぶし
+|-
+| Green Per Bend Sinister Inverted || 下に緑色の逆斜め分割 || 緑の右下塗りつぶし
+|-
+| Light Blue Per Bend Sinister Inverted || 下に空色の逆斜め分割 || 空色の右下塗りつぶし
+|-
+| Lime Per Bend Sinister Inverted || 下に黄緑色の逆斜め分割 || 黄緑の右下塗りつぶし
+|-
+| Magenta Per Bend Sinister Inverted || 下に赤紫色の逆斜め分割 || 赤紫の右下塗りつぶし
+|-
+| Orange Per Bend Sinister Inverted || 下に橙色の逆斜め分割 || オレンジの右下塗りつぶし
+|-
+| Pink Per Bend Sinister Inverted || 下に桃色の逆斜め分割 || ピンクの右下塗りつぶし
+|-
+| Purple Per Bend Sinister Inverted || 下に紫色の逆斜め分割 || 紫の右下塗りつぶし
+|-
+| Red Per Bend Sinister Inverted || 下に赤色の逆斜め分割 || 赤の右下塗りつぶし
+|-
+| Light Gray Per Bend Sinister Inverted || 下に薄灰色の逆斜め分割 || 薄灰色の右下塗りつぶし
+|-
+| White Per Bend Sinister Inverted || 下に白色の逆斜め分割 || 白の右下塗りつぶし
+|-
+| Yellow Per Bend Sinister Inverted || 下に黄色の逆斜め分割 || 黄色の右下塗りつぶし
+|-
+| Black Flower Charge || 黒色の花模様 || 黒の花模様
+|-
+| Blue Flower Charge || 青色の花模様 || 青の花模様
+|-
+| Cyan Flower Charge || 青緑色の花模様 || 水色の花模様
+|-
+| Green Flower Charge || 緑色の花模様 || 緑の花模様
+|-
+| Lime Flower Charge || 黄緑色の花模様 || 黄緑の花模様
+|-
+| Magenta Flower Charge || 赤紫色の花模様 || 赤紫の花模様
+|-
+| Orange Flower Charge || 橙色の花模様 || オレンジの花模様
+|-
+| Pink Flower Charge || 桃色の花模様 || ピンクの花模様
+|-
+| Purple Flower Charge || 紫色の花模様 || 紫の花模様
+|-
+| Red Flower Charge || 赤色の花模様 || 赤の花模様
+|-
+| White Flower Charge || 白色の花模様 || 白の花模様
+|-
+| Black Gradient || 上に黒色のグラデーション || 黒の上方向グラデーション
+|-
+| Blue Gradient || 上に青色のグラデーション || 青の上方向グラデーション
+|-
+| Brown Gradient || 上に茶色のグラデーション || 茶色の上方向グラデーション
+|-
+| Cyan Gradient || 上に青緑色のグラデーション || 水色の上方向グラデーション
+|-
+| Gray Gradient || 上に灰色のグラデーション || 灰色の上方向グラデーション
+|-
+| Green Gradient || 上に緑色のグラデーション || 緑の上方向グラデーション
+|-
+| Light Blue Gradient || 上に空色のグラデーション || 空色の上方向グラデーション
+|-
+| Lime Gradient || 上に黄緑色のグラデーション || 黄緑の上方向グラデーション
+|-
+| Magenta Gradient || 上に赤紫色のグラデーション || 赤紫の上方向グラデーション
+|-
+| Orange Gradient || 上に橙色のグラデーション || オレンジの上方向グラデーション
+|-
+| Pink Gradient || 上に桃色のグラデーション || ピンクの上方向グラデーション
+|-
+| Purple Gradient || 上に紫色のグラデーション || 紫の上方向グラデーション
+|-
+| Red Gradient || 上に赤色のグラデーション || 赤の上方向グラデーション
+|-
+| Light Gray Gradient || 上に薄灰色のグラデーション || 薄灰色の上方向グラデーション
+|-
+| White Gradient || 上に白色のグラデーション || 白の上方向グラデーション
+|-
+| Yellow Gradient || 上に黄色のグラデーション || 黄色の上方向グラデーション
+|-
+| Black Base Gradient || 下に黒色のグラデーション || 黒の下方向グラデーション
+|-
+| Blue Base Gradient || 下に青色のグラデーション || 青の下方向グラデーション
+|-
+| Brown Base Gradient || 下に茶色のグラデーション || 茶色の下方向グラデーション
+|-
+| Cyan Base Gradient || 下に青緑色のグラデーション || 水色の下方向グラデーション
+|-
+| Gray Base Gradient || 下に灰色のグラデーション || 灰色の下方向グラデーション
+|-
+| Green Base Gradient || 下に緑色のグラデーション || 緑の下方向グラデーション
+|-
+| Light Blue Base Gradient || 下に空色のグラデーション || 空色の下方向グラデーション
+|-
+| Lime Base Gradient || 下に黄緑色のグラデーション || 黄緑の下方向グラデーション
+|-
+| Magenta Base Gradient || 下に赤紫色のグラデーション || 赤紫の下方向グラデーション
+|-
+| Orange Base Gradient || 下に橙色のグラデーション || オレンジの下方向グラデーション
+|-
+| Pink Base Gradient || 下に桃色のグラデーション || ピンクの下方向グラデーション
+|-
+| Purple Base Gradient || 下に紫色のグラデーション || 紫の下方向グラデーション
+|-
+| Red Base Gradient || 下に赤色のグラデーション || 赤の下方向グラデーション
+|-
+| Light Gray Base Gradient || 下に薄灰色のグラデーション || 薄灰色の下方向グラデーション
+|-
+| White Base Gradient || 下に白色のグラデーション || 白の下方向グラデーション
+|-
+| Yellow Base Gradient || 下に黄色のグラデーション || 黄色の下方向グラデーション
+|-
+| Green Banner || 緑色の旗 || 緑の旗
+|-
+| Black Per Fess || 上に黒色の横二分割 || 黒の上半分塗りつぶし
+|-
+| Blue Per Fess || 上に青色の横二分割 || 青の上半分塗りつぶし
+|-
+| Brown Per Fess || 上に茶色の横二分割 || 茶色の上半分塗りつぶし
+|-
+| Cyan Per Fess || 上に青緑色の横二分割 || 水色の上半分塗りつぶし
+|-
+| Gray Per Fess || 上に灰色の横二分割 || 灰色の上半分塗りつぶし
+|-
+| Green Per Fess || 上に緑色の横二分割 || 緑の上半分塗りつぶし
+|-
+| Light Blue Per Fess || 上に空色の横二分割 || 空色の上半分塗りつぶし
+|-
+| Lime Per Fess || 上に黄緑色の横二分割 || 黄緑の上半分塗りつぶし
+|-
+| Magenta Per Fess || 上に赤紫色の横二分割 || 赤紫の上半分塗りつぶし
+|-
+| Orange Per Fess || 上に橙色の横二分割 || オレンジの上半分塗りつぶし
+|-
+| Pink Per Fess || 上に桃色の横二分割 || ピンクの上半分塗りつぶし
+|-
+| Purple Per Fess || 上に紫色の横二分割 || 紫の上半分塗りつぶし
+|-
+| Red Per Fess || 上に赤色の横二分割 || 赤の上半分塗りつぶし
+|-
+| Light Gray Per Fess || 上に薄灰色の横二分割 || 薄灰色の上半分塗りつぶし
+|-
+| White Per Fess || 上に白色の横二分割 || 白の上半分塗りつぶし
+|-
+| Yellow Per Fess || 上に黄色の横二分割 || 黄色の上半分塗りつぶし
+|-
+| Black Per Fess Inverted || 下に黒色の横二分割 || 黒の下半分塗りつぶし
+|-
+| Blue Per Fess Inverted || 下に青色の横二分割 || 青の下半分塗りつぶし
+|-
+| Brown Per Fess Inverted || 下に茶色の横二分割 || 茶色の下半分塗りつぶし
+|-
+| Cyan Per Fess Inverted || 下に青緑色の横二分割 || 水色の下半分塗りつぶし
+|-
+| Gray Per Fess Inverted || 下に灰色の横二分割 || 灰色の下半分塗りつぶし
+|-
+| Green Per Fess Inverted || 下に緑色の横二分割 || 緑の下半分塗りつぶし
+|-
+| Light Blue Per Fess Inverted || 下に空色の横二分割 || 空色の下半分塗りつぶし
+|-
+| Lime Per Fess Inverted || 下に黄緑色の横二分割 || 黄緑の下半分塗りつぶし
+|-
+| Magenta Per Fess Inverted || 下に赤紫色の横二分割 || 赤紫の下半分塗りつぶし
+|-
+| Orange Per Fess Inverted || 下に橙色の横二分割 || オレンジの下半分塗りつぶし
+|-
+| Pink Per Fess Inverted || 下に桃色の横二分割 || ピンクの下半分塗りつぶし
+|-
+| Purple Per Fess Inverted || 下に紫色の横二分割 || 紫の下半分塗りつぶし
+|-
+| Red Per Fess Inverted || 下に赤色の横二分割 || 赤の下半分塗りつぶし
+|-
+| Light Gray Per Fess Inverted || 下に薄灰色の横二分割 || 薄灰色の下半分塗りつぶし
+|-
+| White Per Fess Inverted || 下に白色の横二分割 || 白の下半分塗りつぶし
+|-
+| Yellow Per Fess Inverted || 下に黄色の横二分割 || 黄色の下半分塗りつぶし
+|-
+| Black Per Pale || 右に黒色の縦二分割 || 黒の左半分塗りつぶし
+|-
+| Blue Per Pale || 右に青色の縦二分割 || 青の左半分塗りつぶし
+|-
+| Brown Per Pale || 右に茶色の縦二分割 || 茶色の左半分塗りつぶし
+|-
+| Cyan Per Pale || 右に青緑色の縦二分割 || 水色の左半分塗りつぶし
+|-
+| Gray Per Pale || 右に灰色の縦二分割 || 灰色の左半分塗りつぶし
+|-
+| Green Per Pale || 右に緑色の縦二分割 || 緑の左半分塗りつぶし
+|-
+| Light Blue Per Pale || 右に空色の縦二分割 || 空色の左半分塗りつぶし
+|-
+| Lime Per Pale || 右に黄緑色の縦二分割 || 黄緑の左半分塗りつぶし
+|-
+| Magenta Per Pale || 右に赤紫色の縦二分割 || 赤紫の左半分塗りつぶし
+|-
+| Orange Per Pale || 右に橙色の縦二分割 || オレンジの左半分塗りつぶし
+|-
+| Pink Per Pale || 右に桃色の縦二分割 || ピンクの左半分塗りつぶし
+|-
+| Purple Per Pale || 右に紫色の縦二分割 || 紫の左半分塗りつぶし
+|-
+| Red Per Pale || 右に赤色の縦二分割 || 赤の左半分塗りつぶし
+|-
+| Light Gray Per Pale || 右に薄灰色の縦二分割 || 薄灰色の左半分塗りつぶし
+|-
+| White Per Pale || 右に白色の縦二分割 || 白の左半分塗りつぶし
+|-
+| Yellow Per Pale || 右に黄色の縦二分割 || 黄色の左半分塗りつぶし
+|-
+| Black Per Pale Inverted || 左に黒色の縦二分割 || 黒の右半分塗りつぶし
+|-
+| Blue Per Pale Inverted || 左に青色の縦二分割 || 青の右半分塗りつぶし
+|-
+| Brown Per Pale Inverted || 左に茶色の縦二分割 || 茶色の右半分塗りつぶし
+|-
+| Cyan Per Pale Inverted || 左に青緑色の縦二分割 || 水色の右半分塗りつぶし
+|-
+| Gray Per Pale Inverted || 左に灰色の縦二分割 || 灰色の右半分塗りつぶし
+|-
+| Green Per Pale Inverted || 左に緑色の縦二分割 || 緑の右半分塗りつぶし
+|-
+| Light Blue Per Pale Inverted || 左に空色の縦二分割 || 空色の右半分塗りつぶし
+|-
+| Lime Per Pale Inverted || 左に黄緑色の縦二分割 || 黄緑の右半分塗りつぶし
+|-
+| Magenta Per Pale Inverted || 左に赤紫色の縦二分割 || 赤紫の右半分塗りつぶし
+|-
+| Orange Per Pale Inverted || 左に橙色の縦二分割 || オレンジの右半分塗りつぶし
+|-
+| Pink Per Pale Inverted || 左に桃色の縦二分割 || ピンクの右半分塗りつぶし
+|-
+| Purple Per Pale Inverted || 左に紫色の縦二分割 || 紫の右半分塗りつぶし
+|-
+| Red Per Pale Inverted || 左に赤色の縦二分割 || 赤の右半分塗りつぶし
+|-
+| Light Gray Per Pale Inverted || 左に薄灰色の縦二分割 || 薄灰色の右半分塗りつぶし
+|-
+| White Per Pale Inverted || 左に白色の縦二分割 || 白の右半分塗りつぶし
+|-
+| Yellow Per Pale Inverted || 左に黄色の縦二分割 || 黄色の右半分塗りつぶし
+|-
+| Lime Banner || 黄緑色の旗 || 黄緑の旗
+|-
+| Magenta Banner || 赤紫色の旗 || 赤紫の旗
+|-
+| Black Thing || 黒色の何かの模様 || 黒の何かの模様
+|-
+| Blue Thing || 青色の何かの模様 || 青の何かの模様
+|-
+| Cyan Thing || 青緑色の何かの模様 || 水色の何かの模様
+|-
+| Green Thing || 緑色の何かの模様 || 緑の何かの模様
+|-
+| Lime Thing || 黄緑色の何かの模様 || 黄緑の何かの模様
+|-
+| Magenta Thing || 赤紫色の何かの模様 || 赤紫の何かの模様
+|-
+| Orange Thing || 橙色の何かの模様 || オレンジの何かの模様
+|-
+| Pink Thing || 桃色の何かの模様 || ピンクの何かの模様
+|-
+| Purple Thing || 紫色の何かの模様 || 紫の何かの模様
+|-
+| Red Thing || 赤色の何かの模様 || 赤の何かの模様
+|-
+| White Thing || 白色の何かの模様 || 白の何かの模様
+|-
+| Orange Banner || 橙色の旗 || オレンジの旗
+|-
+| Black Snout || 黒色のブタの鼻の模様 || 豚の鼻 (黒)
+|-
+| Blue Snout || 青色のブタの鼻の模様 || 豚の鼻 (青)
+|-
+| Brown Snout || 茶色のブタの鼻の模様 || 豚の鼻 (茶色)
+|-
+| Cyan Snout || 青緑色のブタの鼻の模様 || 豚の鼻 (水色)
+|-
+| Gray Snout || 灰色のブタの鼻の模様 || 豚の鼻 (灰色)
+|-
+| Green Snout || 緑色のブタの鼻の模様 || 豚の鼻 (緑)
+|-
+| Light Blue Snout || 空色のブタの鼻の模様 || 豚の鼻 (空色)
+|-
+| Lime Snout || 黄緑色のブタの鼻の模様 || 豚の鼻 (黄緑)
+|-
+| Magenta Snout || 赤紫色のブタの鼻の模様 || 豚の鼻 (赤紫)
+|-
+| Orange Snout || 橙色のブタの鼻の模様 || 豚の鼻 (オレンジ)
+|-
+| Pink Snout || 桃色のブタの鼻の模様 || 豚の鼻 (ピンク)
+|-
+| Purple Snout || 紫色のブタの鼻の模様 || 豚の鼻 (紫)
+|-
+| Red Snout || 赤色のブタの鼻の模様 || 豚の鼻 (赤)
+|-
+| Light Gray Snout || 薄灰色のブタの鼻の模様 || 豚の鼻 (薄灰色)
+|-
+| White Snout || 白色のブタの鼻の模様 || 豚の鼻 (白)
+|-
+| Yellow Snout || 黄色のブタの鼻の模様 || 豚の鼻 (黄色)
+|-
+| Pink Banner || 桃色の旗 || ピンクの旗
+|-
+| Purple Banner || 紫色の旗 || 紫の旗
+|-
+| Red Banner || 赤色の旗 || 赤の旗
+|-
+| Black Lozenge || 黒色の菱形 || 黒の菱形
+|-
+| Blue Lozenge || 青色の菱形 || 青の菱形
+|-
+| Cyan Lozenge || 青緑色の菱形 || 水色の菱形
+|-
+| Green Lozenge || 緑色の菱形 || 緑の菱形
+|-
+| Lime Lozenge || 黄緑色の菱形 || 黄緑の菱形
+|-
+| Magenta Lozenge || 赤紫色の菱形 || 赤紫の菱形
+|-
+| Orange Lozenge || 橙色の菱形 || オレンジの菱形
+|-
+| Pink Lozenge || 桃色の菱形 || ピンクの菱形
+|-
+| Purple Lozenge || 紫色の菱形 || 紫の菱形
+|-
+| Red Lozenge || 赤色の菱形 || 赤の菱形
+|-
+| White Lozenge || 白色の菱形 || 白の菱形
+|-
+| Black Skull Charge || 黒色の骸骨模様 || 黒の骸骨模様
+|-
+| Blue Skull Charge || 青色の骸骨模様 || 青の骸骨模様
+|-
+| Cyan Skull Charge || 青緑色の骸骨模様 || 水色の骸骨模様
+|-
+| Green Skull Charge || 緑色の骸骨模様 || 緑の骸骨模様
+|-
+| Lime Skull Charge || 黄緑色の骸骨模様 || 黄緑の骸骨模様
+|-
+| Magenta Skull Charge || 赤紫色の骸骨模様 || 赤紫の骸骨模様
+|-
+| Orange Skull Charge || 橙色の骸骨模様 || オレンジの骸骨模様
+|-
+| Pink Skull Charge || 桃色の骸骨模様 || ピンクの骸骨模様
+|-
+| Purple Skull Charge || 紫色の骸骨模様 || 紫の骸骨模様
+|-
+| Red Skull Charge || 赤色の骸骨模様 || 赤の骸骨模様
+|-
+| White Skull Charge || 白色の骸骨模様 || 白の骸骨模様
+|-
+| Black Paly || 黒色の縦縞 || 黒の縦縞
+|-
+| Blue Paly || 青色の縦縞 || 青の縦縞
+|-
+| Cyan Paly || 青緑色の縦縞 || 水色の縦縞
+|-
+| Green Paly || 緑色の縦縞 || 緑の縦縞
+|-
+| Lime Paly || 黄緑色の縦縞 || 黄緑の縦縞
+|-
+| Magenta Paly || 赤紫色の縦縞 || 赤紫の縦縞
+|-
+| Orange Paly || 橙色の縦縞 || オレンジの縦縞
+|-
+| Pink Paly || 桃色の縦縞 || ピンクの縦縞
+|-
+| Purple Paly || 紫色の縦縞 || 紫の縦縞
+|-
+| Red Paly || 赤色の縦縞 || 赤の縦縞
+|-
+| White Paly || 白色の縦縞 || 白の縦縞
+|-
+| Black Base Dexter Canton || 右下に黒色の方形 || 左下に黒の模様入り
+|-
+| Blue Base Dexter Canton || 右下に青色の方形 || 左下に青の模様入り
+|-
+| Brown Base Dexter Canton || 右下に茶色の方形 || 左下に茶色の模様入り
+|-
+| Cyan Base Dexter Canton || 右下に青緑色の方形 || 左下に水色の模様入り
+|-
+| Gray Base Dexter Canton || 右下に灰色の方形 || 左下に灰色の模様入り
+|-
+| Green Base Dexter Canton || 右下に緑色の方形 || 左下に緑の模様入り
+|-
+| Light Blue Base Dexter Canton || 右下に空色の方形 || 左下に空色の模様入り
+|-
+| Lime Base Dexter Canton || 右下に黄緑色の方形 || 左下に黄緑の模様入り
+|-
+| Magenta Base Dexter Canton || 右下に赤紫色の方形 || 左下に赤紫の模様入り
+|-
+| Orange Base Dexter Canton || 右下に橙色の方形 || 左下にオレンジの模様入り
+|-
+| Pink Base Dexter Canton || 右下に桃色の方形 || 左下にピンクの模様入り
+|-
+| Purple Base Dexter Canton || 右下に紫色の方形 || 左下に紫の模様入り
+|-
+| Red Base Dexter Canton || 右下に赤色の方形 || 左下に赤の模様入り
+|-
+| Light Gray Base Dexter Canton || 右下に薄灰色の方形 || 左下に薄灰色の模様入り
+|-
+| White Base Dexter Canton || 右下に白色の方形 || 左下に白の模様入り
+|-
+| Yellow Base Dexter Canton || 右下に黄色の方形 || 左下に黄色の模様入り
+|-
+| Black Base Sinister Canton || 左下に黒色の方形 || 右下に黒の模様入り
+|-
+| Blue Base Sinister Canton || 左下に青色の方形 || 右下に青の模様入り
+|-
+| Brown Base Sinister Canton || 左下に茶色の方形 || 右下に茶色の模様入り
+|-
+| Cyan Base Sinister Canton || 左下に青緑色の方形 || 右下に水色の模様入り
+|-
+| Gray Base Sinister Canton || 左下に灰色の方形 || 右下に灰色の模様入り
+|-
+| Green Base Sinister Canton || 左下に緑色の方形 || 右下に緑の模様入り
+|-
+| Light Blue Base Sinister Canton || 左下に空色の方形 || 右下に空色の模様入り
+|-
+| Lime Base Sinister Canton || 左下に黄緑色の方形 || 右下に黄緑の模様入り
+|-
+| Magenta Base Sinister Canton || 左下に赤紫色の方形 || 右下に赤紫の模様入り
+|-
+| Orange Base Sinister Canton || 左下に橙色の方形 || 右下にオレンジの模様入り
+|-
+| Pink Base Sinister Canton || 左下に桃色の方形 || 右下にピンクの模様入り
+|-
+| Purple Base Sinister Canton || 左下に紫色の方形 || 右下に紫の模様入り
+|-
+| Red Base Sinister Canton || 左下に赤色の方形 || 右下に赤の模様入り
+|-
+| Light Gray Base Sinister Canton || 左下に薄灰色の方形 || 右下に薄灰色の模様入り
+|-
+| White Base Sinister Canton || 左下に白色の方形 || 右下に白の模様入り
+|-
+| Yellow Base Sinister Canton || 左下に黄色の方形 || 右下に黄色の模様入り
+|-
+| Black Chief Dexter Canton || 右上に黒色の方形 || 左上に黒の模様入り
+|-
+| Blue Chief Dexter Canton || 右上に青色の方形 || 左上に青の模様入り
+|-
+| Brown Chief Dexter Canton || 右上に茶色の方形 || 左上に茶色の模様入り
+|-
+| Cyan Chief Dexter Canton || 右上に青緑色の方形 || 左上に水色の模様入り
+|-
+| Gray Chief Dexter Canton || 右上に灰色の方形 || 左上に灰色の模様入り
+|-
+| Green Chief Dexter Canton || 右上に緑色の方形 || 左上に緑の模様入り
+|-
+| Light Blue Chief Dexter Canton || 右上に空色の方形 || 左上に空色の模様入り
+|-
+| Lime Chief Dexter Canton || 右上に黄緑色の方形 || 左上に黄緑の模様入り
+|-
+| Magenta Chief Dexter Canton || 右上に赤紫色の方形 || 左上に赤紫の模様入り
+|-
+| Orange Chief Dexter Canton || 右上に橙色の方形 || 左上にオレンジの模様入り
+|-
+| Pink Chief Dexter Canton || 右上に桃色の方形 || 左上にピンクの模様入り
+|-
+| Purple Chief Dexter Canton || 右上に紫色の方形 || 左上に紫の模様入り
+|-
+| Red Chief Dexter Canton || 右上に赤色の方形 || 左上に赤の模様入り
+|-
+| Light Gray Chief Dexter Canton || 右上に薄灰色の方形 || 左上に薄灰色の模様入り
+|-
+| White Chief Dexter Canton || 右上に白色の方形 || 左上に白の模様入り
+|-
+| Yellow Chief Dexter Canton || 右上に黄色の方形 || 左上に黄色の模様入り
+|-
+| Black Chief Sinister Canton || 左上に黒色の方形 || 右上に黒の模様入り
+|-
+| Blue Chief Sinister Canton || 左上に青色の方形 || 右上に青の模様入り
+|-
+| Brown Chief Sinister Canton || 左上に茶色の方形 || 右上に茶色の模様入り
+|-
+| Cyan Chief Sinister Canton || 左上に青緑色の方形 || 右上に水色の模様入り
+|-
+| Gray Chief Sinister Canton || 左上に灰色の方形 || 右上に灰色の模様入り
+|-
+| Green Chief Sinister Canton || 左上に緑色の方形 || 右上に緑の模様入り
+|-
+| Light Blue Chief Sinister Canton || 左上に空色の方形 || 右上に空色の模様入り
+|-
+| Lime Chief Sinister Canton || 左上に黄緑色の方形 || 右上に黄緑の模様入り
+|-
+| Magenta Chief Sinister Canton || 左上に赤紫色の方形 || 右上に赤紫の模様入り
+|-
+| Orange Chief Sinister Canton || 左上に橙色の方形 || 右上にオレンジの模様入り
+|-
+| Pink Chief Sinister Canton || 左上に桃色の方形 || 右上にピンクの模様入り
+|-
+| Purple Chief Sinister Canton || 左上に紫色の方形 || 右上に紫の模様入り
+|-
+| Red Chief Sinister Canton || 左上に赤色の方形 || 右上に赤の模様入り
+|-
+| Light Gray Chief Sinister Canton || 左上に薄灰色の方形 || 右上に薄灰色の模様入り
+|-
+| White Chief Sinister Canton || 左上に白色の方形 || 右上に白の模様入り
+|-
+| Yellow Chief Sinister Canton || 左上に黄色の方形 || 右上に黄色の模様入り
+|-
+| Black Cross || 黒色の十字 || 黒の十字
+|-
+| Blue Cross || 青色の十字 || 青の十字
+|-
+| Cyan Cross || 青緑色の十字 || 水色の十字
+|-
+| Green Cross || 緑色の十字 || 緑の十字
+|-
+| Lime Cross || 黄緑色の十字 || 黄緑の十字
+|-
+| Magenta Cross || 赤紫色の十字 || 赤紫の十字
+|-
+| Orange Cross || 橙色の十字 || オレンジの十字
+|-
+| Pink Cross || 桃色の十字 || ピンクの十字
+|-
+| Purple Cross || 紫色の十字 || 紫の十字
+|-
+| Red Cross || 赤色の十字 || 赤の十字
+|-
+| White Cross || 白色の十字 || 白の十字
+|-
+| Black Pale || 黒色の縦帯 || 中央に黒の縦帯入り
+|-
+| Blue Pale || 青色の縦帯 || 中央に青の縦帯入り
+|-
+| Brown Pale || 茶色の縦帯 || 中央に茶色の縦帯入り
+|-
+| Cyan Pale || 青緑色の縦帯 || 中央に水色の縦帯入り
+|-
+| Gray Pale || 灰色の縦帯 || 中央に灰色の縦帯入り
+|-
+| Green Pale || 緑色の縦帯 || 中央に緑の縦帯入り
+|-
+| Light Blue Pale || 空色の縦帯 || 中央に空色の縦帯入り
+|-
+| Lime Pale || 黄緑色の縦帯 || 中央に黄緑の縦帯入り
+|-
+| Magenta Pale || 赤紫色の縦帯 || 中央に赤紫の縦帯入り
+|-
+| Orange Pale || 橙色の縦帯 || 中央にオレンジの縦帯入り
+|-
+| Pink Pale || 桃色の縦帯 || 中央にピンクの縦帯入り
+|-
+| Purple Pale || 紫色の縦帯 || 中央に紫の縦帯入り
+|-
+| Red Pale || 赤色の縦帯 || 中央に赤の縦帯入り
+|-
+| Light Gray Pale || 薄灰色の縦帯 || 中央に薄灰色の縦帯入り
+|-
+| White Pale || 白色の縦帯 || 中央に白の縦帯入り
+|-
+| Yellow Pale || 黄色の縦帯 || 中央に黄色の縦帯入り
+|-
+| Black Bend Sinister || 黒色の逆斜め帯 || 黒の左斜め下向き襷模様
+|-
+| Blue Bend Sinister || 青色の逆斜め帯 || 青の左斜め下向き襷模様
+|-
+| Brown Bend Sinister || 茶色の逆斜め帯 || 茶色の左斜め下向き襷模様
+|-
+| Cyan Bend Sinister || 青緑色の逆斜め帯 || 水色の左斜め下向き襷模様
+|-
+| Gray Bend Sinister || 灰色の逆斜め帯 || 灰色の左斜め下向き襷模様
+|-
+| Green Bend Sinister || 緑色の逆斜め帯 || 緑の左斜め下向き襷模様
+|-
+| Light Blue Bend Sinister || 空色の逆斜め帯 || 空色の左斜め下向き襷模様
+|-
+| Lime Bend Sinister || 黄緑色の逆斜め帯 || 黄緑の左斜め下向き襷模様
+|-
+| Magenta Bend Sinister || 赤紫色の逆斜め帯 || 赤紫の左斜め下向き襷模様
+|-
+| Orange Bend Sinister || 橙色の逆斜め帯 || オレンジの左斜め下向き襷模様
+|-
+| Pink Bend Sinister || 桃色の逆斜め帯 || ピンクの左斜め下向き襷模様
+|-
+| Purple Bend Sinister || 紫色の逆斜め帯 || 紫の左斜め下向き襷模様
+|-
+| Red Bend Sinister || 赤色の逆斜め帯 || 赤の左斜め下向き襷模様
+|-
+| Light Gray Bend Sinister || 薄灰色の逆斜め帯 || 薄灰色の左斜め下向き襷模様
+|-
+| White Bend Sinister || 白色の逆斜め帯 || 白の左斜め下向き襷模様
+|-
+| Yellow Bend Sinister || 黄色の逆斜め帯 || 黄色の左斜め下向き襷模様
+|-
+| Black Bend || 黒色の斜め帯 || 黒の右斜め下向き襷模様
+|-
+| Blue Bend || 青色の斜め帯 || 青の右斜め下向き襷模様
+|-
+| Brown Bend || 茶色の斜め帯 || 茶色の右斜め下向き襷模様
+|-
+| Cyan Bend || 青緑色の斜め帯 || 水色の右斜め下向き襷模様
+|-
+| Gray Bend || 灰色の斜め帯 || 灰色の右斜め下向き襷模様
+|-
+| Green Bend || 緑色の斜め帯 || 緑の右斜め下向き襷模様
+|-
+| Light Blue Bend || 空色の斜め帯 || 空色の右斜め下向き襷模様
+|-
+| Lime Bend || 黄緑色の斜め帯 || 黄緑の右斜め下向き襷模様
+|-
+| Magenta Bend || 赤紫色の斜め帯 || 赤紫の右斜め下向き襷模様
+|-
+| Orange Bend || 橙色の斜め帯 || オレンジの右斜め下向き襷模様
+|-
+| Pink Bend || 桃色の斜め帯 || ピンクの右斜め下向き襷模様
+|-
+| Purple Bend || 紫色の斜め帯 || 紫の右斜め下向き襷模様
+|-
+| Red Bend || 赤色の斜め帯 || 赤の右斜め下向き襷模様
+|-
+| Light Gray Bend || 薄灰色の斜め帯 || 薄灰色の右斜め下向き襷模様
+|-
+| White Bend || 白色の斜め帯 || 白の右斜め下向き襷模様
+|-
+| Yellow Bend || 黄色の斜め帯 || 黄色の右斜め下向き襷模様
+|-
+| Black Pale Dexter || 右に黒色の縦帯 || 左に黒の縦帯入り
+|-
+| Blue Pale Dexter || 右に青色の縦帯 || 左に青の縦帯入り
+|-
+| Brown Pale Dexter || 右に茶色の縦帯 || 左に茶色の縦帯入り
+|-
+| Cyan Pale Dexter || 右に青緑色の縦帯 || 左に水色の縦帯入り
+|-
+| Gray Pale Dexter || 右に灰色の縦帯 || 左に灰色の縦帯入り
+|-
+| Green Pale Dexter || 右に緑色の縦帯 || 左に緑の縦帯入り
+|-
+| Light Blue Pale Dexter || 右に空色の縦帯 || 左に空色の縦帯入り
+|-
+| Lime Pale Dexter || 右に黄緑色の縦帯 || 左に黄緑の縦帯入り
+|-
+| Magenta Pale Dexter || 右に赤紫色の縦帯 || 左に赤紫の縦帯入り
+|-
+| Orange Pale Dexter || 右に橙色の縦帯 || 左にオレンジの縦帯入り
+|-
+| Pink Pale Dexter || 右に桃色の縦帯 || 左にピンクの縦帯入り
+|-
+| Purple Pale Dexter || 右に紫色の縦帯 || 左に紫の縦帯入り
+|-
+| Red Pale Dexter || 右に赤色の縦帯 || 左に赤の縦帯入り
+|-
+| Light Gray Pale Dexter || 右に薄灰色の縦帯 || 左に薄灰色の縦帯入り
+|-
+| White Pale Dexter || 右に白色の縦帯 || 左に白の縦帯入り
+|-
+| Yellow Pale Dexter || 右に黄色の縦帯 || 左に黄色の縦帯入り
+|-
+| Black Fess || 黒色の横帯 || 中央に黒の横帯入り
+|-
+| Blue Fess || 青色の横帯 || 中央に青の横帯入り
+|-
+| Brown Fess || 茶色の横帯 || 中央に茶色の横帯入り
+|-
+| Cyan Fess || 青緑色の横帯 || 中央に水色の横帯入り
+|-
+| Gray Fess || 灰色の横帯 || 中央に灰色の横帯入り
+|-
+| Green Fess || 緑色の横帯 || 中央に緑の横帯入り
+|-
+| Light Blue Fess || 空色の横帯 || 中央に空色の横帯入り
+|-
+| Lime Fess || 黄緑色の横帯 || 中央に黄緑の横帯入り
+|-
+| Magenta Fess || 赤紫色の横帯 || 中央に赤紫の横帯入り
+|-
+| Orange Fess || 橙色の横帯 || 中央にオレンジの横帯入り
+|-
+| Pink Fess || 桃色の横帯 || 中央にピンクの横帯入り
+|-
+| Purple Fess || 紫色の横帯 || 中央に紫の横帯入り
+|-
+| Red Fess || 赤色の横帯 || 中央に赤の横帯入り
+|-
+| Light Gray Fess || 薄灰色の横帯 || 中央に薄灰色の横帯入り
+|-
+| White Fess || 白色の横帯 || 中央に白の横帯入り
+|-
+| Yellow Fess || 黄色の横帯 || 中央に黄色の横帯入り
+|-
+| Black Pale Sinister || 左に黒色の縦帯 || 右に黒の縦帯入り
+|-
+| Blue Pale Sinister || 左に青色の縦帯 || 右に青の縦帯入り
+|-
+| Brown Pale Sinister || 左に茶色の縦帯 || 右に茶色の縦帯入り
+|-
+| Cyan Pale Sinister || 左に青緑色の縦帯 || 右に水色の縦帯入り
+|-
+| Gray Pale Sinister || 左に灰色の縦帯 || 右に灰色の縦帯入り
+|-
+| Green Pale Sinister || 左に緑色の縦帯 || 右に緑の縦帯入り
+|-
+| Light Blue Pale Sinister || 左に空色の縦帯 || 右に空色の縦帯入り
+|-
+| Lime Pale Sinister || 左に黄緑色の縦帯 || 右に黄緑の縦帯入り
+|-
+| Magenta Pale Sinister || 左に赤紫色の縦帯 || 右に赤紫の縦帯入り
+|-
+| Orange Pale Sinister || 左に橙色の縦帯 || 右にオレンジの縦帯入り
+|-
+| Pink Pale Sinister || 左に桃色の縦帯 || 右にピンクの縦帯入り
+|-
+| Purple Pale Sinister || 左に紫色の縦帯 || 右に紫の縦帯入り
+|-
+| Red Pale Sinister || 左に赤色の縦帯 || 右に赤の縦帯入り
+|-
+| Light Gray Pale Sinister || 左に薄灰色の縦帯 || 右に薄灰色の縦帯入り
+|-
+| White Pale Sinister || 左に白色の縦帯 || 右に白の縦帯入り
+|-
+| Yellow Pale Sinister || 左に黄色の縦帯 || 右に黄色の縦帯入り
+|-
+| Black Chevron || 黒色の山形 || 黒の上向き三角
+|-
+| Blue Chevron || 青色の山形 || 青の上向き三角
+|-
+| Brown Chevron || 茶色の山形 || 茶色の上向き三角
+|-
+| Cyan Chevron || 青緑色の山形 || 水色の上向き三角
+|-
+| Gray Chevron || 灰色の山形 || 灰色の上向き三角
+|-
+| Green Chevron || 緑色の山形 || 緑の上向き三角
+|-
+| Light Blue Chevron || 空色の山形 || 空色の上向き三角
+|-
+| Lime Chevron || 黄緑色の山形 || 黄緑の上向き三角
+|-
+| Magenta Chevron || 赤紫色の山形 || 赤紫の上向き三角
+|-
+| Orange Chevron || 橙色の山形 || オレンジの上向き三角
+|-
+| Pink Chevron || 桃色の山形 || ピンクの上向き三角
+|-
+| Purple Chevron || 紫色の山形 || 紫の上向き三角
+|-
+| Red Chevron || 赤色の山形 || 赤の上向き三角
+|-
+| Light Gray Chevron || 薄灰色の山形 || 薄灰色の上向き三角
+|-
+| White Chevron || 白色の山形 || 白の上向き三角
+|-
+| Yellow Chevron || 黄色の山形 || 黄色の上向き三角
+|-
+| Black Inverted Chevron || 黒色の下向きの山形 || 黒の下向き三角
+|-
+| Blue Inverted Chevron || 青色の下向きの山形 || 青の下向き三角
+|-
+| Brown Inverted Chevron || 茶色の下向きの山形 || 茶色の下向き三角
+|-
+| Cyan Inverted Chevron || 青緑色の下向きの山形 || 水色の下向き三角
+|-
+| Gray Inverted Chevron || 灰色の下向きの山形 || 灰色の下向き三角
+|-
+| Green Inverted Chevron || 緑色の下向きの山形 || 緑の下向き三角
+|-
+| Light Blue Inverted Chevron || 空色の下向きの山形 || 空色の下向き三角
+|-
+| Lime Inverted Chevron || 黄緑色の下向きの山形 || 黄緑の下向き三角
+|-
+| Magenta Inverted Chevron || 赤紫色の下向きの山形 || 赤紫の下向き三角
+|-
+| Orange Inverted Chevron || 橙色の下向きの山形 || オレンジの下向き三角
+|-
+| Pink Inverted Chevron || 桃色の下向きの山形 || ピンクの下向き三角
+|-
+| Purple Inverted Chevron || 紫色の下向きの山形 || 紫の下向き三角
+|-
+| Red Inverted Chevron || 赤色の下向きの山形 || 赤の下向き三角
+|-
+| Light Gray Inverted Chevron || 薄灰色の下向きの山形 || 薄灰色の下向き三角
+|-
+| White Inverted Chevron || 白色の下向きの山形 || 白の下向き三角
+|-
+| Yellow Inverted Chevron || 黄色の下向きの山形 || 黄色の下向き三角
+|-
+| Black Base Indented || 下に黒色の波形 || 黒の上向き波形
+|-
+| Blue Base Indented || 下に青色の波形 || 青の上向き波形
+|-
+| Brown Base Indented || 下に茶色の波形 || 茶色の上向き波形
+|-
+| Cyan Base Indented || 下に青緑色の波形 || 水色の上向き波形
+|-
+| Gray Base Indented || 下に灰色の波形 || 灰色の上向き波形
+|-
+| Green Base Indented || 下に緑色の波形 || 緑の上向き波形
+|-
+| Light Blue Base Indented || 下に空色の波形 || 空色の上向き波形
+|-
+| Lime Base Indented || 下に黄緑色の波形 || 黄緑の上向き波形
+|-
+| Magenta Base Indented || 下に赤紫色の波形 || 赤紫の上向き波形
+|-
+| Orange Base Indented || 下に橙色の波形 || オレンジの上向き波形
+|-
+| Pink Base Indented || 下に桃色の波形 || ピンクの上向き波形
+|-
+| Purple Base Indented || 下に紫色の波形 || 紫の上向き波形
+|-
+| Red Base Indented || 下に赤色の波形 || 赤の上向き波形
+|-
+| Light Gray Base Indented || 下に薄灰色の波形 || 薄灰色の上向き波形
+|-
+| White Base Indented || 下に白色の波形 || 白の上向き波形
+|-
+| Yellow Base Indented || 下に黄色の波形 || 黄色の上向き波形
+|-
+| Black Chief Indented || 上に黒色の波形 || 黒の下向き波形
+|-
+| Blue Chief Indented || 上に青色の波形 || 青の下向き波形
+|-
+| Brown Chief Indented || 上に茶色の波形 || 茶色の下向き波形
+|-
+| Cyan Chief Indented || 上に青緑色の波形 || 水色の下向き波形
+|-
+| Gray Chief Indented || 上に灰色の波形 || 灰色の下向き波形
+|-
+| Green Chief Indented || 上に緑色の波形 || 緑の下向き波形
+|-
+| Light Blue Chief Indented || 上に空色の波形 || 空色の下向き波形
+|-
+| Lime Chief Indented || 上に黄緑色の波形 || 黄緑の下向き波形
+|-
+| Magenta Chief Indented || 上に赤紫色の波形 || 赤紫の下向き波形
+|-
+| Orange Chief Indented || 上に橙色の波形 || オレンジの下向き波形
+|-
+| Pink Chief Indented || 上に桃色の波形 || ピンクの下向き波形
+|-
+| Purple Chief Indented || 上に紫色の波形 || 紫の下向き波形
+|-
+| Red Chief Indented || 上に赤色の波形 || 赤の下向き波形
+|-
+| Light Gray Chief Indented || 上に薄灰色の波形 || 薄灰色の下向き波形
+|-
+| White Chief Indented || 上に白色の波形 || 白の下向き波形
+|-
+| Yellow Chief Indented || 上に黄色の波形 || 黄色の下向き波形
+|-
+| White Banner || 白色の旗 || 白の旗
+|-
+| Black Bed || 黒色のベッド || 黒のベッド
+|-
+| Red Bed || 赤色のベッド || 赤のベッド
+|-
+| Blue Bed || 青色のベッド || 青のベッド
+|-
+| Purple Bed || 紫色のベッド || 紫のベッド
+|-
+| Cyan Bed || 青緑色のベッド || 水色のベッド
+|-
+| Pink Bed || 桃色のベッド || ピンクのベッド
+|-
+| Lime Bed || 黄緑色のベッド || 黄緑のベッド
+|-
+| Magenta Bed || 赤紫色のベッド || 赤紫のベッド
+|-
+| Orange Bed || 橙色のベッド || オレンジのベッド
+|-
+| White Bed || 白色のベッド || 白のベッド
+|-
+| Bell || 鐘 || ベル
+|-
+| Beetroot Soup || ビートルートスープ || ビートルート スープ
+|-
+| Blaze Powder || ブレイズパウダー || ブレイズ パウダー
+|-
+| Blaze Rod || ブレイズロッド || ブレイズ ロッド
+|-
+| Oak Boat || オークのボート || 樫の木のボート
+|-
+| Birch Boat || シラカバのボート || 樺のボート
+|-
+| Jungle Boat || ジャングルのボート || ジャングルの木のボート
+|-
+| Dark Oak Boat || ダークオークのボート || 黒樫の木のボート
+|-
+| Bowl || ボウル || おわん
+|-
+| Lava Bucket || 溶岩入りバケツ || 溶岩バケツ
+|-
+| Water Bucket || 水入りバケツ || 水バケツ
+|-
+| Bucket of Cod || タラ入りバケツ || バケツ 1 杯のタラ
+|-
+| Bucket of Salmon || サケ入りバケツ || バケツ 1 杯の鮭
+|-
+| Bucket of Tropical Fish || 熱帯魚入りバケツ || バケツ 1 杯の熱帯魚
+|-
+| Bucket of Pufferfish || フグ入りバケツ || バケツ 1 杯のフグ
+|-
+| Orange || 橙色 || オレンジ
+|-
+| Magenta || 赤紫色 || 赤紫
+|-
+| Lime || 黄緑色 || 黄緑
+|-
+| Anemone || アネモネ || クマノミ
+|-
+| Black Tang || ヒレナガハギ || クロハギ
+|-
+| Cotton Candy Betta || ベタ || わたあめベタ
+|-
+| Emperor Red Snapper || センネンダイ || コウテイ レッドスナッパー
+|-
+| Red Cichlid || レッドシクリッド || レッド シクリッド
+|-
+| Red Lipped Blenny || イソギンポ || レッド リップド ブレニー
+|-
+| Red Snapper || フエダイ || レッドスナッパー
+|-
+| Can break: || 破壊可能： || 破壊可能なもの:
+|-
+| Can be placed on: || 設置可能： || 配置可能なもの:
+|-
+| Warped Fungus on a Stick || 歪んだキノコ付きの棒 || ゆがんだきのこ付きの棒
+|-
+| Leather Tunic || 革の上着 || 革の服
+|-
+| Diamond Chestplate || ダイヤモンドのチェストプレート || ダイヤモンドの胸当て
+|-
+| Golden Chestplate || 金のチェストプレート || 金の胸当て
+|-
+| Iron Chestplate || 鉄のチェストプレート || 鉄の胸当て
+|-
+| Chorus Fruit || コーラスフルーツ || コーラス フルーツ
+|-
+| Popped Chorus Fruit || 焼いたコーラスフルーツ || 焼いたコーラス フルーツ
+|-
+| Cooked Porkchop || 焼き豚 || 調理した豚肉
+|-
+| Redstone Comparator || レッドストーンコンパレーター || レッドストーン コンパレーター
+|-
+| Lodestone Compass || ロードストーンコンパス || ロデストーン コンパス
+|-
+| Redstone Repeater || レッドストーンリピーター || レッドストーン反復装置
+|-
+| Birch Door || シラカバのドア || 樺の木のドア
+|-
+| Dark Oak Door || ダークオークのドア || 黒樫の木のドア
+|-
+| Jungle Door || ジャングルのドア || ジャングルの木のドア
+|-
+| Oak Door || オークのドア || 樫の木のドア
+|-
+| Spruce Door || トウヒのドア || トウヒの木のドア
+|-
+| Crimson Door || 真紅のドア || ドア (クリムゾン)
+|-
+| Warped Door || 歪んだドア || ゆがんだドア
+|-
+| Dragon's Breath || ドラゴンブレス || ドラゴンの息
+|-
+| Ink Sac || イカスミ || 墨袋
+|-
+| Black Dye || 黒色の染料 || 黒の染料
+|-
+| Blue Dye || 青色の染料 || 青の染料
+|-
+| Cocoa Beans || カカオ豆 || ココア ビーンズ
+|-
+| Cyan Dye || 青緑色の染料 || 水色の染料
+|-
+| Green Dye || 緑色の染料 || 緑の染料
+|-
+| Lime Dye || 黄緑色の染料 || 黄緑の染料
+|-
+| Magenta Dye || 赤紫色の染料 || 赤紫の染料
+|-
+| Orange Dye || 橙色の染料 || オレンジの染料
+|-
+| Pink Dye || 桃色の染料 || ピンクの染料
+|-
+| Purple Dye || 紫色の染料 || 紫の染料
+|-
+| Red Dye || 赤色の染料 || 赤の染料
+|-
+| White Dye || 白色の染料 || 白の染料
+|-
+| Empty Map || 白紙の地図 || 空っぽの地図
+|-
+| Water Bottle || 水入り瓶 || 水のビン
+|-
+| Enchanted Book || エンチャントの本 || エンチャントした本
+|-
+| End Crystal || エンドクリスタル || 果てのクリスタル
+|-
+| End Rod || エンドロッド || 果てのロッド
+|-
+| Fire Charge || ファイヤーチャージ || 発火剤
+|-
+| Flight Duration: || 飛翔時間： || 滞空時間:
+|-
+| Cyan || 青緑色 || 水色
+|-
+| Pink || 桃色 || ピンク
+|-
+| Purple || 紫色 || 紫
+|-
+| Trail || 流星 || 光跡
+|-
+| Star-shaped || 星型 || 星形
+|-
+| Creeper-shaped || クリーパー型 || クリーパー形
+|-
+| Cooked Cod || 焼き鱈 || 焼いたタラ
+|-
+| Raw Cod || 生鱈 || 生のタラ
+|-
+| Cooked Salmon || 焼き鮭 || 調理した鮭
+|-
+| Fishing Rod || 釣竿 || 釣り竿
+|-
+| Flint || 火打石 || 火打ち石
+|-
+| Flint and Steel || 火打石と打ち金 || 火打ち石と打ち金
+|-
+| Glass Bottle || ガラス瓶 || ガラスビン
+|-
+| Gold Nugget || 金塊 || 金の塊
+|-
+| Diamond Helmet || ダイヤモンドのヘルメット || ダイヤモンドの兜
+|-
+| Golden Helmet || 金のヘルメット || 金の兜
+|-
+| Iron Helmet || 鉄のヘルメット || 鉄の兜
+|-
+| Diamond Hoe || ダイヤモンドのクワ || ダイヤモンドのくわ
+|-
+| Golden Hoe || 金のクワ || 金のくわ
+|-
+| Iron Hoe || 鉄のクワ || 鉄のくわ
+|-
+| Stone Hoe || 石のクワ || 石のくわ
+|-
+| Wooden Hoe || 木のクワ || 木のくわ
+|-
+| Honey Bottle || ハチミツ入りの瓶 || ハニーボトル
+|-
+| Gold Ingot || 金インゴット || 金の延べ棒
+|-
+| Iron Ingot || 鉄インゴット || 鉄の延べ棒
+|-
+| Netherite Ingot || ネザライトインゴット || ネザライト インゴット
+|-
+| Netherite Scrap || ネザライトの欠片 || ネザライト スクラップ
+|-
+| Netherite Pickaxe || ネザライトのツルハシ || ネザライトのつるはし
+|-
+| Netherite Hoe || ネザライトのクワ || ネザライトの鍬
+|-
+| Netherite Chestplate || ネザライトのチェストプレート || ネザライトの胸当て
+|-
+| Lead || リード || 首ひも
+|-
+| Leather Pants || 革のズボン || 革のパンツ
+|-
+| Diamond Leggings || ダイヤモンドのレギンス || ダイヤモンドの脚甲
+|-
+| Golden Leggings || 金のレギンス || 金の脚甲
+|-
+| Iron Leggings || 鉄のレギンス || 鉄の脚甲
+|-
+| Heart of the Sea || 海洋の心 || 海の中心
+|-
+| Mushroom Stew || キノコシチュー || きのこシチュー
+|-
+| Cooked Mutton || 焼き羊肉 || 調理した羊肉
+|-
+| Baked Potato || ベイクドポテト || ベイクド ポテト
+|-
+| Poisonous Potato || 青くなったジャガイモ || 有毒なジャガイモ
+|-
+| Prismarine Crystals || プリズマリンクリスタル || 海結晶
+|-
+| Prismarine Shard || プリズマリンの欠片 || 暗海晶の破片
+|-
+| Pumpkin Pie || パンプキンパイ || パンプキン パイ
+|-
+| Cooked Rabbit || 焼き兎肉 || 調理した兎肉
+|-
+| C418 - blocks || C418 - blocks || C418 - ブロック
+|-
+| C418 - cat || C418 - cat || C418 - キャット
+|-
+| C418 - chirp || C418 - chirp || C418 - チャープ
+|-
+| C418 - far || C418 - far || C418 - ファー
+|-
+| C418 - mall || C418 - mall || C418 - 散歩
+|-
+| C418 - mellohi || C418 - mellohi || C418 - メロヒー
+|-
+| Music Disc || レコード || 音楽ディスク
+|-
+| C418 - stal || C418 - stal || C418 - スタル
+|-
+| C418 - strad || C418 - strad || C418 - ストラド
+|-
+| C418 - wait || C418 - wait || C418 - ウェイト
+|-
+| C418 - ward || C418 - ward || C418 - ワード
+|-
+| Lena Raine - Pigstep || Lena Raine - Pigstep || レナ レイン - Pigstep
+|-
+| Redstone Dust || レッドストーンダスト || レッドストーンの粉
+|-
+| Kelp || コンブ || 昆布
+|-
+| Dried Kelp || 乾燥した昆布 || 乾燥昆布
+|-
+| Rotten Flesh || 腐った肉 || 腐肉
+|-
+| Oak Sign || オークの看板 || 樫の看板
+|-
+| Birch Sign || シラカバの看板 || 樺の看板
+|-
+| Jungle Sign || ジャングルの看板 || ジャングルの木の看板
+|-
+| Dark Oak Sign || ダークオークの看板 || 黒樫の看板
+|-
+| Crimson Sign || 真紅の看板 || 看板 (クリムゾン)
+|-
+| Warped Sign || 歪んだ看板 || ゆがんだ看板
+|-
+| Creeper Head || クリーパーの頭 || クリーパー ヘッド
+|-
+| %s's Head || %sの頭 || %sのヘッド
+|-
+| Skeleton Skull || スケルトンの頭蓋骨 || スケルトンの頭
+|-
+| Wither Skeleton Skull || ウィザースケルトンの頭蓋骨 || ウィザー スケルトンの頭
+|-
+| Unbreakable || 不可壊 || 耐久
+|-
+| Turtle Shell || カメの甲羅 || 亀の甲羅
+|-
+| Scute || カメのウロコ || 甲羅のかけら
+|-
+| Sweet Berries || スイートベリー || スイート ベリー
+|-
+| Suspicious Stew || 怪しげなシチュー || あやしいシチュー
+|-
+| Snout || ブタの鼻の模様 || 豚の鼻
+|-
+| Name: || 名前： || 名前
+|-
+| Turns into: || 置換先： || 次の値に変わります:
+|-
+| Attack/Destroy || 攻撃する／壊す || 攻撃する/壊す
+|-
+| Game Interface || インターフェース || ゲーム インターフェース
+|-
+| Open Command || コマンドラインを開く || コマンドを開く
+|-
+| Toggle Fullscreen || フルスクリーンの切り替え || 全画面モードの切り替え
+|-
+| Hotbar Slot 5 || ホットバースロット5 || ホットバー スロット 5
+|-
+| Hotbar Slot 9 || ホットバースロット9 || ホットバー スロット 9
+|-
+| Strafe Left || 左 || 左に平行移動
+|-
+| Button %1$s || ボタン%1$s || マウスボタン %1$s
+|-
+| List Players || プレイヤーリストの表示 || プレイヤーリスト
+|-
+| Strafe Right || 右 || 右に平行移動
+|-
+| Take Screenshot || スクリーンショットの撮影 || スクリーンショット撮影
+|-
+| Toggle Cinematic Camera || 滑らかなカメラ動作の切り替え || カメラ動作の切り替え
+|-
+| Highlight Players (Spectators) || プレイヤーの強調表示（スペクテイター） || ハイライトプレイヤー (観戦)
+|-
+| Use Item/Place Block || アイテムの使用／ブロックの設置 || アイテムを使用/ブロックを置く
+|-
+| Pause || Pause || ポーズ
+|-
+| F1 || F1 || F1 キー
+|-
+| F2 || F2 || F2 キー
+|-
+| F3 || F3 || F3 キー
+|-
+| F4 || F4 || F4 キー
+|-
+| F5 || F5 || F5 キー
+|-
+| F6 || F6 || F6 キー
+|-
+| F7 || F7 || F7 キー
+|-
+| F8 || F8 || F8 キー
+|-
+| F9 || F9 || F9 キー
+|-
+| F10 || F10 || F10 キー
+|-
+| F11 || F11 || F11 キー
+|-
+| F12 || F12 || F12 キー
+|-
+| F13 || F13 || F13 キー
+|-
+| Scanning for games on your local network || LAN内のゲームを検索中 || LAN 内のゲームを検索しています
+|-
+| Start LAN World || LANワールドを公開 || LAN 世界の開始
+|-
+| LAN World || LANワールド || LAN 世界
+|-
+| Scaling at 1:%s || 縮尺1：%s || ズーム 1:%s
+|-
+| Disconnect || 切断 || 切断する
+|-
+| Generating world || ワールドを生成中 || 世界を生成中
+|-
+| Building terrain || 地形情報を生成中 || 地形を構築中
+|-
+| Loading world || ワールドを読み込み中 || 世界を読み込み中
+|-
+| Options || 設定 || オプション
+|-
+| Play Demo World || デモワールドで遊ぶ || デモ世界で遊ぶ
+|-
+| Reset Demo World || デモワールドをリセット || デモ世界のリセット
+|-
+| Open to LAN || LANに公開 || LAN に公開
+|-
+| Singleplayer || シングルプレイ || シングルプレイヤー
+|-
+| %s joined the game || %sがゲームに参加しました || %s が世界にやってきました
+|-
+| %s (formerly known as %s) joined the game || %s（旧名%s）がゲームに参加しました || %s (旧称 %s) が世界にやってきました
+|-
+| %s left the game || %sがゲームを退出しました || %s が世界を去りました
+|-
+| This server recommends the use of a custom resource pack. || このサーバーでは、カスタムリソースパックの利用をお勧めします。 || このサーバーでは、カスタム リソース パックの利用をお勧めします。
+|-
+| Would you like to download and install it automagically? || 自動的にダウンロードしてインストールしますか？ || 自動的にダウンロードしてインストールしますか?
+|-
+| Smooth Lighting || スムースライティング || なめらかな光
+|-
+| Graphics || グラフィックス || グラフィック
+|-
+| Focused Height || 入力時の高さ || チャット時のログ表示エリア高さ
+|-
+| Unfocused Height || 通常時の高さ || 通常時のログ表示エリア高さ
+|-
+| Prompt on Links || リンクを開く時に確認の表示 || リンク時のプロンプト
+|-
+| Chat Settings... || チャット設定… || チャット設定...
+|-
+| Controls... || 操作設定… || 操作方法...
+|-
+| Customize World Settings || カスタマイズワールド設定 || カスタマイズ世界設定
+|-
+| Entity Shadows || エンティティの影 || エンティティ シャドウ
+|-
+| Force Unicode Font || Unicodeフォントを強制する || Unicode フォントの強制
+|-
+| Text Background Opacity || 背景の不透明度 || テキスト背景の不透明度
+|-
+| Hold || 固定 || ホールド
+|-
+| Invert Mouse || マウス操作の反転 || マウス反転
+|-
+| Language || 言語設定 || 言語
+|-
+| Jacket || 上着 || ジャケット
+|-
+| Left Pants Leg || ズボンの左脚 || 左のパンツの脚
+|-
+| Right Pants Leg || ズボンの右脚 || 右のパンツの脚
+|-
+| Multiplayer Settings... || マルチプレイ設定… || マルチプレイ設定...
+|-
+| Reduced Debug Info || デバッグ情報を減らす || まとめたデバッグ情報
+|-
+| Clouds || 雲の表示 || 雲
+|-
+| Render Distance || 描画距離 || 表示距離
+|-
+| Reset to Default || 初期設定にリセット || デフォルトに戻す
+|-
+| Saturation || 満腹度回復 || 飽和
+|-
+| Sensitivity || マウス感度 || 感度
+|-
+| %s: %s || %s：%s || %s: %s
+|-
+| Skin Customization... || スキンのカスタマイズ… || スキンのカスタマイズ...
+|-
+| Snooper Settings... || 情報収集設定… || 情報収集設定...
+|-
+| Accessibility || アクセシビリティ設定 || アクセシビリティ
+|-
+| Touchscreen Mode || タッチスクリーンモード || タッチスクリーン モード
+|-
+| Incompatible || 非対応 || 互換性がありません
+|-
+| Game Menu || ゲームメニュー || ゲーム メニュー
+|-
+| Game Paused || ゲームを一時停止中 || ゲームをポーズ中
+|-
+| Left || 左手 || 左移動
+|-
+| Right || 右手 || 右移動
+|-
+| Sneak || スニーク || しのび足
+|-
+| Absorption || 衝撃吸収 || 吸収
+|-
+| Blindness || 盲目 || 目つぶし
+|-
+| Conduit Power || コンジットパワー || コンジット パワー
+|-
+| Nausea || 吐き気 || 目まい
+|-
+| Strength || 攻撃力上昇 || 力
+|-
+| Mining Fatigue || 採掘速度低下 || 疲労
+|-
+| Haste || 採掘速度上昇 || 勤勉
+|-
+| When Applied: || 効果： || 効果:
+|-
+| No Effects || 効果なし || 効能なし
+|-
+| Fire Resistance || 火炎耐性 || 耐火
+|-
+| Instant Damage || 即時ダメージ || ダメージ
+|-
+| Potion of Harming || 負傷のポーション || ダメージのポーション
+|-
+| Instant Health || 即時回復 || 回復
+|-
+| Potion of Healing || 治癒のポーション || 回復のポーション
+|-
+| Health Boost || 体力増強 || HP ブースト
+|-
+| Invisibility || 透明化 || 不可視
+|-
+| Jump Boost || 跳躍力上昇 || 跳躍
+|-
+| Slowness || 移動速度低下 || 鈍化
+|-
+| Slow Falling || 落下速度低下 || 低速落下
+|-
+| Potion of Swiftness || 俊敏のポーション || スピードのポーション
+|-
+| Regeneration || 再生能力 || 再生
+|-
+| Potion of the Turtle Master || タートルマスターのポーション || 亀使いのポーション
+|-
+| Potion of Weakness || 弱化のポーション || 弱体化のポーション
+|-
+| Saving world || ワールドを保存中 || 世界を保存しています
+|-
+| Select Resource Packs || リソースパックの選択 || リソース パックの選択
+|-
+| Type || タイプ || 種類
+|-
+| Couldn't save screenshot: %s || スクリーンショットを保存できませんでした：%s || スクリーンショットを保存できませんでした: %s
+|-
+| Saved screenshot as %s || スクリーンショットをファイル名%sとして保存しました || スクリーンショットをファイル名 %s として保存しました
+|-
+| Minecraft Server || Minecraftサーバー || Minecraft サーバー
+|-
+| (Hidden) || （非表示） || (非表示)
+|-
+| Select Server || サーバー選択 || サーバーを選択
+|-
+| Must be converted! || ワールドデータを変換する必要があります || 変換する必要があります!
+|-
+| Create New World || ワールド新規作成 || 新しい世界
+|-
+| Play New Demo World || 新しいデモワールドで遊ぶ || 新しいデモ世界で遊ぶ
+|-
+| Are you sure you want to delete this world? || このワールドを削除しますか？ || 本当にこの世界を削除してもよろしいですか?
+|-
+| World Name || ワールド名 || 世界の名前
+|-
+| Unlimited resources, free flying and || アイテムが無制限、飛行可能で、 || アイテムの無制限の使用、飛行、そして
+|-
+| destroy blocks instantly || ブロックを瞬時に破壊できる || ブロックの瞬時破壊が可能です
+|-
+| difficulty, and one life only || されていて、命はたったひとつだけ || 命はひとつしかありません
+|-
+| Spectator || スペクテイター || 観戦者
+|-
+| You can look but don't touch || 鑑賞可能、干渉不可 || 見ることはできても触ることはできません
+|-
+| levels, health and hunger || 貯める必要があり、体力、空腹の要素がある || レベル、HP、空腹の要素があります
+|-
+| More World Options... || その他のワールド設定… || その他の世界設定...
+|-
+| Re-Create || 再生成 || 再度作成
+|-
+| Will be saved in: || 保存先： || 保存先:
+|-
+| Leave blank for a random seed || 空白でランダムシード値 || ランダムに種を決める場合、空白のままにしてください
+|-
+| Play Selected World || 選択したワールドで遊ぶ || 選択中の世界で遊ぶ
+|-
+| Select World || ワールドを選択 || 世界を選択
+|-
+| Jukebox/Note Blocks || ジュークボックス／音符ブロック || ジュークボックス/音符ブロック
+|-
+| Armor Pieces Cleaned || 防具を脱色した回数 || 鎧を洗浄した回数
+|-
+| Banners Cleaned || 旗を脱色した回数 || 旗を洗浄した回数
+|-
+| Interactions with Brewing Stand || 醸造台を使用した回数 || 調合台を使用した回数
+|-
+| Cake Slices Eaten || ケーキの一切れを食べた回数 || 食べたケーキ片の数
+|-
+| Cauldrons Filled || 大釜を水で満たした回数 || 大釜に水を溜めた回数
+|-
+| Water Taken from Cauldron || 大釜から水を取った回数 || 大釜から水を汲み取った回数
+|-
+| Chests Opened || チェストを開いた回数 || 開いたチェストの数
+|-
+| Times Crafted || 作った回数 || 工作した回数
+|-
+| Distance Crouched || スニークした距離 || しのび足した距離
+|-
+| Number of Deaths || 死亡回数 || 力尽きた回数
+|-
+| Dispensers Searched || ディスペンサーの中身を見た回数 || 発射装置を開いた回数
+|-
+| Items Dropped || アイテムを捨てた回数 || 落としたアイテムの数
+|-
+| Droppers Searched || ドロッパーの中身を見た回数 || ドロッパーを開いた回数
+|-
+| You have never been killed by %s || まだ%sに倒されたことがありません || まだ %s に倒されたことはありません
+|-
+| You have never killed %s || まだ%sを倒したことがありません || まだ %s を倒したことがありません
+|-
+| Fish Caught || 魚を釣った回数 || 釣った魚の数
+|-
+| Distance Flown || 空中を移動した距離 || 浮いた距離
+|-
+| Hoppers Searched || ホッパーの中身を見た回数 || ホッパーを開いた回数
+|-
+| Distance by Horse || ウマで移動した距離 || ウマに乗って移動した距離
+|-
+| Times Mined || 採取した回数 || 採掘した回数
+|-
+| Mob Kills || Mobを倒した回数 || 倒したモブの数
+|-
+| Mobs || Mob || 生き物
+|-
+| Distance by Pig || ブタで移動した距離 || 豚で移動した距離
+|-
+| Player Kills || プレイヤーを倒した回数 || 倒したプレイヤーの数
+|-
+| Trapped Chests Triggered || トラップチェストを反応させた回数 || トラップチェストを開いた回数
+|-
+| Times Used || 使用した回数 || 使った回数
+|-
+| Statistic || 統計値 || 統計
+|-
+| Home || Home || ホーム
+|-
+| Current || 現在の設定 || 現在
+|-
+| Disconnected || 切断されました || インターネット接続なし
+|-
+| Acacia Fence || アカシアのフェンス || アカシアの木の柵
+|-
+| Acacia Fence Gate || アカシアのフェンスゲート || アカシアの木の柵のゲート
+|-
+| Activator Rail || アクティベーターレール || アクティベーター レール
+|-
+| Primary Power || 主効果 || 一次パワー
+|-
+| Secondary Power || 副効果 || 二次パワー
+|-
+| Beehive || 養蜂箱 || ハチの巣箱
+|-
+| Bee Nest || ミツバチの巣 || ハチの巣
+|-
+| Target || 的 || ターゲット
+|-
+| This bed is occupied || このベッドは既に使われています || このベッドは使用中です
+|-
+| Respawn point set || リスポーン地点が設定されました || リスポーン位置の設定
+|-
+| Birch Fence || シラカバのフェンス || 樺の木の柵
+|-
+| Birch Fence Gate || シラカバのフェンスゲート || 樺の木の柵のゲート
+|-
+| Block of Coal || 石炭ブロック || 石炭のブロック
+|-
+| Block of Diamond || ダイヤモンドブロック || ダイヤモンドのブロック
+|-
+| Block of Emerald || エメラルドブロック || エメラルドのブロック
+|-
+| Block of Gold || 金ブロック || 金のブロック
+|-
+| Block of Iron || 鉄ブロック || 鉄のブロック
+|-
+| Block of Redstone || レッドストーンブロック || レッドストーンのブロック
+|-
+| Brown Mushroom || 茶色のキノコ || きのこ (茶色)
+|-
+| Mushroom Stem || キノコの柄 || きのこの柄
+|-
+| Brown Mushroom Block || 茶色のキノコブロック || きのこブロック (茶色)
+|-
+| Oak Button || オークのボタン || 樫の木のボタン
+|-
+| Birch Button || シラカバのボタン || 樺の木のボタン
+|-
+| Dark Oak Button || ダークオークのボタン || 黒樫の木のボタン
+|-
+| Jungle Button || ジャングルのボタン || ジャングルの木のボタン
+|-
+| Spruce Button || トウヒのボタン || トウヒの木のボタン
+|-
+| Dried Kelp Block || 乾燥した昆布ブロック || 乾燥昆布ブロック
+|-
+| Carved Pumpkin || くり抜かれたカボチャ || 飾りカボチャ
+|-
+| Jigsaw Block || ジグソーブロック || ジグソー ブロック
+|-
+| Honey Block || ハチミツブロック || ハチのブロック
+|-
+| Honeycomb Block || ハニカムブロック || ハニカム ブロック
+|-
+| Lodestone || ロードストーン || ロデストーン
+|-
+| Crimson Stem || 真紅の幹 || 幹 (クリムゾン)
+|-
+| Warped Stem || 歪んだ幹 || ゆがんだ幹
+|-
+| Stripped Crimson Stem || 表皮を剥いだ真紅の幹 || 皮のはがれた幹(クリムゾン)
+|-
+| Stripped Warped Stem || 表皮を剥いだ歪んだ幹 || 皮のはがれたゆがんだ幹
+|-
+| Crimson Hyphae || 真紅の菌糸 || 菌糸 (クリムゾン)
+|-
+| Warped Hyphae || 歪んだ菌糸 || ゆがんだ菌氏
+|-
+| Stripped Crimson Hyphae || 表皮を剥いだ真紅の菌糸 || 皮のはがれた菌糸 (クリムゾン)
+|-
+| Stripped Warped Hyphae || 表皮を剥いだ歪んだ菌糸 || 皮のはがれたゆがんだ菌糸
+|-
+| Crimson Planks || 真紅の板材 || 木材 (クリムゾン)
+|-
+| Warped Planks || 歪んだ板材 || ゆがんだ木材
+|-
+| Crimson Trapdoor || 真紅のトラップドア || トラップドア (クリムゾン)
+|-
+| Warped Trapdoor || 歪んだトラップドア || ゆがんだトラップドア
+|-
+| Crimson Stairs || 真紅の階段 || 階段 (クリムゾン)
+|-
+| Warped Stairs || 歪んだ階段 || ゆがんだ階段
+|-
+| Crimson Fence || 真紅のフェンス || 柵 (クリムゾン)
+|-
+| Warped Fence || 歪んだフェンス || ゆがんだ柵
+|-
+| Crimson Fence Gate || 真紅のフェンスゲート || 柵のゲート (クリムゾン)
+|-
+| Warped Fence Gate || 歪んだフェンスゲート || ゆがんだ柵のゲート
+|-
+| Crimson Button || 真紅のボタン || ボタン (クリムゾン)
+|-
+| Warped Button || 歪んだボタン || ゆがんだボタン
+|-
+| Crimson Pressure Plate || 真紅の感圧板 || 重量感知板 (クリムゾン)
+|-
+| Warped Pressure Plate || 歪んだ感圧板 || ゆがんだ重量感知板
+|-
+| Crimson Slab || 真紅のハーフブロック || ハーフブロック (クリムゾン)
+|-
+| Warped Slab || 歪んだハーフブロック || ゆがんだハーフブロック
+|-
+| Shroomlight || シュルームライト || きのこライト
+|-
+| Crimson Nylium || 真紅のナイリウム || ニリウム (クリムゾン)
+|-
+| Warped Nylium || 歪んだナイリウム || ゆがんだニリウム
+|-
+| Polished Blackstone Bricks || 磨かれたブラックストーンレンガ || 磨かれたブラックストーン レンガ
+|-
+| Cracked Polished Blackstone Bricks || ひび割れたブラックストーンレンガ || ひび割れた磨かれたブラックストーンレンガ
+|-
+| Polished Blackstone Brick Stairs || 磨かれたブラックストーンレンガの階段 || 磨かれたブラックストーン レンガの階段
+|-
+| Blackstone Wall || ブラックストーンの塀 || ブラックストーンの壁
+|-
+| Polished Blackstone Brick Wall || 磨かれたブラックストーンレンガの塀 || 磨かれたブラックストーン レンガの壁
+|-
+| Chiseled Polished Blackstone || 模様入りの磨かれたブラックストーン || 模様入り磨かれたブラックストーン
+|-
+| Gilded Blackstone || きらめくブラックストーン || 金色のブラックストーン
+|-
+| Polished Blackstone Brick Slab || 磨かれたブラックストーンレンガのハーフブロック || 磨かれたブラックストーン レンガのハーフブロック
+|-
+| Soul Soil || ソウルソイル || 魂の土壌
+|-
+| Soul Fire || 魂の炎 || 魂のファイア
+|-
+| Polished Blackstone Pressure Plate || 磨かれたブラックストーンの感圧板 || 磨かれたブラックストーンの重量感知板
+|-
+| Polished Blackstone Wall || 磨かれたブラックストーンの塀 || 磨かれたブラックストーンの壁
+|-
+| Soul Campfire || 魂の焚き火 || 魂のたき火
+|-
+| Chiseled Nether Bricks || 模様入りのネザーレンガ || 模様入りネザーレンガ
+|-
+| Quartz Bricks || クォーツレンガ || クォーツ レンガ
+|-
+| Trapped Chest || トラップチェスト || トラップ チェスト
+|-
+| White Shulker Box || 白色のシュルカーボックス || 白のシュルカー ボックス
+|-
+| Orange Shulker Box || 橙色のシュルカーボックス || オレンジのシュルカー ボックス
+|-
+| Magenta Shulker Box || 赤紫色のシュルカーボックス || 赤紫のシュルカー ボックス
+|-
+| Light Blue Shulker Box || 空色のシュルカーボックス || 空色のシュルカー ボックス
+|-
+| Yellow Shulker Box || 黄色のシュルカーボックス || 黄色のシュルカー ボックス
+|-
+| Lime Shulker Box || 黄緑色のシュルカーボックス || 黄緑のシュルカー ボックス
+|-
+| Pink Shulker Box || 桃色のシュルカーボックス || ピンクのシュルカー ボックス
+|-
+| Gray Shulker Box || 灰色のシュルカーボックス || 灰色のシュルカー ボックス
+|-
+| Light Gray Shulker Box || 薄灰色のシュルカーボックス || 薄灰色のシュルカー ボックス
+|-
+| Cyan Shulker Box || 青緑色のシュルカーボックス || 水色のシュルカー ボックス
+|-
+| Purple Shulker Box || 紫色のシュルカーボックス || 紫のシュルカー ボックス
+|-
+| Blue Shulker Box || 青色のシュルカーボックス || 青のシュルカー ボックス
+|-
+| Brown Shulker Box || 茶色のシュルカーボックス || 茶色のシュルカー ボックス
+|-
+| Green Shulker Box || 緑色のシュルカーボックス || 緑のシュルカー ボックス
+|-
+| Red Shulker Box || 赤色のシュルカーボックス || 赤のシュルカー ボックス
+|-
+| Black Shulker Box || 黒色のシュルカーボックス || 黒のシュルカー ボックス
+|-
+| Chorus Flower || コーラスフラワー || コーラスの花
+|-
+| Chorus Plant || コーラスプラント || コーラス プラント
+|-
+| White Stained Glass || 白色の色付きガラス || 白のステンドグラス
+|-
+| Light Gray Stained Glass || 薄灰色の色付きガラス || 薄灰色のステンドグラス
+|-
+| Gray Stained Glass || 灰色の色付きガラス || 灰色のステンドグラス
+|-
+| Black Stained Glass || 黒色の色付きガラス || 黒のステンドグラス
+|-
+| Brown Stained Glass || 茶色の色付きガラス || 茶色のステンドグラス
+|-
+| Red Stained Glass || 赤色の色付きガラス || 赤のステンドグラス
+|-
+| Orange Stained Glass || 橙色の色付きガラス || オレンジのステンドグラス
+|-
+| Yellow Stained Glass || 黄色の色付きガラス || 黄色のステンドグラス
+|-
+| Lime Stained Glass || 黄緑色の色付きガラス || 黄緑のステンドグラス
+|-
+| Green Stained Glass || 緑色の色付きガラス || 緑のステンドグラス
+|-
+| Cyan Stained Glass || 青緑色の色付きガラス || 水色の色付きガラス
+|-
+| Blue Stained Glass || 青色の色付きガラス || 青のステンドグラス
+|-
+| Purple Stained Glass || 紫色の色付きガラス || 紫のステンドグラス
+|-
+| Magenta Stained Glass || 赤紫色の色付きガラス || 赤紫のステンドグラス
+|-
+| Pink Stained Glass || 桃色の色付きガラス || ピンクのステンドグラス
+|-
+| White Stained Glass Pane || 白色の色付きガラス板 || 白のステンドグラス窓
+|-
+| Light Gray Stained Glass Pane || 薄灰色の色付きガラス板 || 薄灰色のステンドグラス窓
+|-
+| Gray Stained Glass Pane || 灰色の色付きガラス板 || 灰色のステンドグラス窓
+|-
+| Black Stained Glass Pane || 黒色の色付きガラス板 || 黒のステンドグラス窓
+|-
+| Brown Stained Glass Pane || 茶色の色付きガラス板 || 茶色のステンドグラス窓
+|-
+| Red Stained Glass Pane || 赤色の色付きガラス板 || 赤のステンドグラス窓
+|-
+| Orange Stained Glass Pane || 橙色の色付きガラス板 || オレンジのステンドグラス窓
+|-
+| Yellow Stained Glass Pane || 黄色の色付きガラス板 || 黄色のステンドグラス窓
+|-
+| Lime Stained Glass Pane || 黄緑色の色付きガラス板 || 黄緑のステンドグラス窓
+|-
+| Green Stained Glass Pane || 緑色の色付きガラス板 || 緑のステンドグラス窓
+|-
+| Cyan Stained Glass Pane || 青緑色の色付きガラス板 || 水色のステンドグラス窓
+|-
+| Blue Stained Glass Pane || 青色の色付きガラス板 || 青のステンドグラス窓
+|-
+| Purple Stained Glass Pane || 紫色の色付きガラス板 || 紫のステンドグラス窓
+|-
+| Magenta Stained Glass Pane || 赤紫色の色付きガラス板 || 赤紫のステンドグラス窓
+|-
+| Pink Stained Glass Pane || 桃色の色付きガラス板 || ピンクのステンドグラス窓
+|-
+| Black Terracotta || 黒色のテラコッタ || 黒のテラコッタ
+|-
+| Blue Terracotta || 青色のテラコッタ || 青のテラコッタ
+|-
+| Cyan Terracotta || 青緑色のテラコッタ || 水色のテラコッタ
+|-
+| Green Terracotta || 緑色のテラコッタ || 緑のテラコッタ
+|-
+| Lime Terracotta || 黄緑色のテラコッタ || 黄緑のテラコッタ
+|-
+| Magenta Terracotta || 赤紫色のテラコッタ || 赤紫のテラコッタ
+|-
+| Orange Terracotta || 橙色のテラコッタ || オレンジのテラコッタ
+|-
+| Pink Terracotta || 桃色のテラコッタ || ピンクのテラコッタ
+|-
+| Purple Terracotta || 紫色のテラコッタ || 紫のテラコッタ
+|-
+| Red Terracotta || 赤色のテラコッタ || 赤のテラコッタ
+|-
+| White Terracotta || 白色のテラコッタ || 白のテラコッタ
+|-
+| Structure Block || ストラクチャーブロック || ストラクチャー ブロック
+|-
+| Structure Void || ストラクチャーヴォイド || ストラクチャー ヴォイド
+|-
+| Black Wool || 黒色の羊毛 || 黒のウール
+|-
+| Blue Wool || 青色の羊毛 || 青のウール
+|-
+| Brown Wool || 茶色の羊毛 || 茶色のウール
+|-
+| Cyan Wool || 青緑色の羊毛 || 水色のウール
+|-
+| Gray Wool || 灰色の羊毛 || 灰色のウール
+|-
+| Green Wool || 緑色の羊毛 || 緑のウール
+|-
+| Light Blue Wool || 空色の羊毛 || 空色のウール
+|-
+| Lime Wool || 黄緑色の羊毛 || 黄緑のウール
+|-
+| Magenta Wool || 赤紫色の羊毛 || 赤紫のウール
+|-
+| Orange Wool || 橙色の羊毛 || オレンジのウール
+|-
+| Pink Wool || 桃色の羊毛 || ピンクのウール
+|-
+| Purple Wool || 紫色の羊毛 || 紫のウール
+|-
+| Red Wool || 赤色の羊毛 || 赤のウール
+|-
+| Light Gray Wool || 薄灰色の羊毛 || 薄灰色のウール
+|-
+| White Wool || 白色の羊毛 || 白のウール
+|-
+| Yellow Wool || 黄色の羊毛 || 黄色のウール
+|-
+| Mossy Cobblestone Wall || 苔むした丸石の塀 || 苔の生えた丸石の壁
+|-
+| Cobblestone Wall || 丸石の塀 || 丸石の壁
+|-
+| Granite Wall || 花崗岩の塀 || 花崗岩の壁
+|-
+| Diorite Wall || 閃緑岩の塀 || 閃緑岩の壁
+|-
+| Andesite Wall || 安山岩の塀 || 安山岩の壁
+|-
+| Sandstone Wall || 砂岩の塀 || 砂岩の壁
+|-
+| Brick Wall || レンガの塀 || レンガの壁
+|-
+| Stone Brick Wall || 石レンガの塀 || 石レンガの壁
+|-
+| Mossy Stone Brick Wall || 苔むした石レンガの塀 || 苔の生えた石レンガの壁
+|-
+| Nether Brick Wall || ネザーレンガの塀 || ネザーレンガの壁
+|-
+| End Stone Brick Wall || エンドストーンレンガの塀 || エンドストーンレンガの壁
+|-
+| Prismarine Wall || プリズマリンの塀 || 海晶ブロックの壁
+|-
+| Red Sandstone Wall || 赤い砂岩の塀 || 赤砂岩の壁
+|-
+| Red Nether Brick Wall || 赤いネザーレンガの塀 || 赤いネザーレンガの壁
+|-
+| Cocoa || カカオの実 || ココア
+|-
+| Repeating Command Block || リピートコマンドブロック || コマンドブロックの反復
+|-
+| Chain Command Block || チェーンコマンドブロック || コマンドブロックのチェーン
+|-
+| Dark Oak Fence || ダークオークのフェンス || 黒樫の木の柵
+|-
+| Dark Oak Fence Gate || ダークオークのフェンスゲート || 黒樫の木の柵のゲート
+|-
+| Detector Rail || ディテクターレール || 感知レール
+|-
+| Coarse Dirt || 粗い土 || 荒れた土
+|-
+| Purpur Block || プルプァブロック || プルプァ ブロック
+|-
+| Farmland || 耕地 || 農地
+|-
+| Oak Fence || オークのフェンス || 樫の木の柵
+|-
+| Oak Fence Gate || オークのフェンスゲート || 樫の木の柵のゲート
+|-
+| Fire || 炎 || 火
+|-
+| Crimson Roots || 真紅の根 || 根 (クリムゾン)
+|-
+| Warped Roots || 歪んだ根 || ゆがんだ根
+|-
+| Orange Tulip || 橙色のチューリップ || オレンジのチューリップ
+|-
+| Pink Tulip || 桃色のチューリップ || ピンクのチューリップ
+|-
+| Red Tulip || 赤色のチューリップ || 赤のチューリップ
+|-
+| White Tulip || 白色のチューリップ || 白のチューリップ
+|-
+| Wither Rose || ウィザーローズ || ウィザーのバラ
+|-
+| Powered Rail || パワードレール || 加速レール
+|-
+| Dirt Path || 土の道 || 未舗装路
+|-
+| Hay Bale || 干草の俵 || 干し草の俵
+|-
+| Netherrack || ネザーラック || ネザーレック
+|-
+| Blue Ice || 青氷 || 青の氷
+|-
+| Jungle Fence || ジャングルのフェンス || ジャングルの木の柵
+|-
+| Jungle Fence Gate || ジャングルのフェンスゲート || ジャングルの木の柵のゲート
+|-
+| Dark Oak Leaves || ダークオークの葉 || 黒樫の木の葉
+|-
+| Birch Leaves || シラカバの葉 || 樺の葉
+|-
+| Jungle Leaves || ジャングルの葉 || ジャングルの木の葉
+|-
+| Oak Leaves || オークの葉 || 樫の葉
+|-
+| Acacia Log || アカシアの原木 || アカシアの丸太
+|-
+| Dark Oak Log || ダークオークの原木 || 黒樫の丸太
+|-
+| Birch Log || シラカバの原木 || 樺の丸太
+|-
+| Jungle Log || ジャングルの原木 || ジャングルの木の丸太
+|-
+| Oak Log || オークの原木 || 樫の丸太
+|-
+| Spruce Log || トウヒの原木 || トウヒの丸太
+|-
+| Magma Block || マグマブロック || マグマ ブロック
+|-
+| Note Block || 音符ブロック || 音ブロック
+|-
+| Nether Brick Fence || ネザーレンガのフェンス || ネザーレンガの柵
+|-
+| Warped Wart Block || 歪んだウォートブロック || ゆがんだウォートブロック
+|-
+| Redstone Torch || レッドストーントーチ || レッドストーンのたいまつ
+|-
+| Soul Torch || 魂の松明 || 魂のたいまつ
+|-
+| Observer || オブザーバー || 観察者
+|-
+| Sticky Piston || 粘着ピストン || 吸着ピストン
+|-
+| Oak Pressure Plate || オークの感圧板 || 樫の木の重量感知板
+|-
+| Acacia Pressure Plate || アカシアの感圧板 || アカシアの重量感知板
+|-
+| Birch Pressure Plate || シラカバの感圧板 || 樺の木の重量感知板
+|-
+| Dark Oak Pressure Plate || ダークオークの感圧板 || 黒樫の木の重量感知板
+|-
+| Jungle Pressure Plate || ジャングルの感圧板 || ジャングルの木の重量感知板
+|-
+| Spruce Pressure Plate || トウヒの感圧板 || トウヒの木の重量感知板
+|-
+| Prismarine Bricks || プリズマリンレンガ || 海晶レンガ
+|-
+| Dark Prismarine || ダークプリズマリン || 暗海晶ブロック
+|-
+| Prismarine || プリズマリン || 海晶ブロック
+|-
+| Chiseled Quartz Block || 模様入りのクォーツブロック || 模様入りクォーツのブロック
+|-
+| Block of Quartz || クォーツブロック || クォーツのブロック
+|-
+| Smooth Quartz Block || 滑らかなクォーツブロック || なめらかなクォーツ ブロック
+|-
+| Red Mushroom || 赤色のキノコ || キノコ (赤)
+|-
+| Crimson Fungus || 真紅のキノコ || きのこ (クリムゾン)
+|-
+| Warped Fungus || 歪んだキノコ || ゆがんだきのこ
+|-
+| Red Mushroom Block || 赤色のキノコブロック || きのこブロック (赤)
+|-
+| Chiseled Red Sandstone || 模様入りの赤い砂岩 || 模様入りの赤砂岩
+|-
+| Red Sandstone || 赤い砂岩 || 赤砂岩
+|-
+| Smooth Red Sandstone || 滑らかな赤い砂岩 || 滑らかな赤砂岩
+|-
+| Cut Red Sandstone || 研がれた赤い砂岩 || カットされた赤砂岩
+|-
+| Redstone Lamp || レッドストーンランプ || レッドストーン ランプ
+|-
+| Red Sand || 赤い砂 || 赤砂
+|-
+| Chiseled Sandstone || 模様入りの砂岩 || 模様入り砂岩
+|-
+| Smooth Sandstone || 滑らかな砂岩 || なめらかな砂岩
+|-
+| Cut Sandstone || 研がれた砂岩 || カットされた砂岩
+|-
+| Dark Oak Sapling || ダークオークの苗木 || 黒樫の苗木
+|-
+| Birch Sapling || シラカバの苗木 || 樺の苗木
+|-
+| Oak Sapling || オークの苗木 || 樫の苗木
+|-
+| Sea Lantern || シーランタン || 海のランタン
+|-
+| Wet Sponge || 濡れたスポンジ || ぬれたスポンジ
+|-
+| Spruce Fence || トウヒのフェンス || トウヒの木の柵
+|-
+| Spruce Fence Gate || トウヒのフェンスゲート || トウヒの木の柵のゲート
+|-
+| Brick Stairs || レンガの階段 || レンガ階段
+|-
+| Smooth Quartz Stairs || 滑らかなクォーツの階段 || なめらかなクォーツの階段
+|-
+| Red Sandstone Stairs || 赤い砂岩の階段 || 赤砂岩の階段
+|-
+| Stone Brick Stairs || 石レンガの階段 || 石レンガ階段
+|-
+| Prismarine Stairs || プリズマリンの階段 || 海晶ブロックの階段
+|-
+| Dark Prismarine Stairs || ダークプリズマリンの階段 || 暗海晶ブロックの階段
+|-
+| Prismarine Brick Stairs || プリズマリンレンガの階段 || 海晶レンガの階段
+|-
+| Mossy Stone Brick Stairs || 苔むした石レンガの階段 || 苔の生えた石レンガの階段
+|-
+| Smooth Red Sandstone Stairs || 滑らかな赤い砂岩の階段 || なめらかな赤砂岩の階段
+|-
+| Smooth Sandstone Stairs || 滑らかな砂岩の階段 || なめらかな砂岩の階段
+|-
+| Mossy Cobblestone Stairs || 苔むした丸石の階段 || 苔の生えた丸石の階段
+|-
+| Smooth Stone || 滑らかな石 || なめらかな石
+|-
+| Chiseled Stone Bricks || 模様入りの石レンガ || 模様入り石レンガ
+|-
+| Mossy Stone Bricks || 苔むした石レンガ || 苔の生えた石レンガ
+|-
+| Mossy Cobblestone || 苔むした丸石 || 苔の生えた丸石
+|-
+| Cobblestone Slab || 丸石のハーフブロック || 丸石ハーフブロック
+|-
+| Stone Slab || 石のハーフブロック || 石ハーフブロック
+|-
+| Sandstone Slab || 砂岩のハーフブロック || 砂岩ハーフブロック
+|-
+| Smooth Stone Slab || 滑らかな石のハーフブロック || なめらかな石ハーフブロック
+|-
+| Red Sandstone Slab || 赤い砂岩のハーフブロック || 赤砂岩のハーフブロック
+|-
+| Prismarine Slab || プリズマリンのハーフブロック || 海晶ブロックのハーフブロック
+|-
+| Dark Prismarine Slab || ダークプリズマリンのハーフブロック || 暗海晶ブロックのハーフブロック
+|-
+| Mossy Cobblestone Slab || 苔むした丸石のハーフブロック || 苔の生えた丸石ハーフブロック
+|-
+| Smooth Sandstone Slab || 滑らかな砂岩のハーフブロック || なめらかな砂岩ハーフブロック
+|-
+| End Stone Brick Slab || エンドストーンレンガのハーフブロック || エンドストーンレンガ ハーフブロック
+|-
+| Smooth Red Sandstone Slab || 滑らかな赤い砂岩のハーフブロック || なめらかな赤砂岩ハーフブロック
+|-
+| Polished Andesite Slab || 磨かれた安山岩のハーフブロック || 磨かれた安山岩ハーフブロック
+|-
+| Andesite Slab || 安山岩のハーフブロック || 安山岩ハーフブロック
+|-
+| Diorite Slab || 閃緑岩のハーフブロック || 閃緑岩ハーフブロック
+|-
+| Polished Diorite Slab || 磨かれた閃緑岩のハーフブロック || 磨かれた閃緑岩ハーフブロック
+|-
+| Granite Slab || 花崗岩のハーフブロック || 花崗岩ハーフブロック
+|-
+| Polished Granite Slab || 磨かれた花崗岩のハーフブロック || 磨かれた花崗岩ハーフブロック
+|-
+| Mossy Stone Brick Slab || 苔むした石レンガのハーフブロック || 苔の生えた石レンガ ハーフブロック
+|-
+| Smooth Quartz Slab || 滑らかなクォーツのハーフブロック || なめらかなクォーツ ハーフブロック
+|-
+| Cut Sandstone Slab || 研がれた砂岩のハーフブロック || カットされた砂岩ハーフブロック
+|-
+| Cut Red Sandstone Slab || 研がれた赤い砂岩のハーフブロック || カットされた赤砂岩ハーフブロック
+|-
+| Tube Coral Block || クダサンゴブロック || クダサンゴのブロック
+|-
+| Brain Coral Block || ノウサンゴブロック || 脳サンゴのブロック
+|-
+| Bubble Coral Block || ミズタマサンゴブロック || ミズタマサンゴのブロック
+|-
+| Fire Coral Block || ミレポラサンゴブロック || アナサンゴモドキのブロック
+|-
+| Horn Coral Block || シカツノサンゴブロック || 四放サンゴのブロック
+|-
+| Dead Tube Coral Block || 死んだクダサンゴブロック || 枯れたクダサンゴのブロック
+|-
+| Dead Brain Coral Block || 死んだノウサンゴブロック || 枯れた脳サンゴのブロック
+|-
+| Dead Bubble Coral Block || 死んだミズタマサンゴブロック || 枯れたミズタマサンゴのブロック
+|-
+| Dead Fire Coral Block || 死んだミレポラサンゴブロック || 枯れたアナサンゴモドキのブロック
+|-
+| Dead Horn Coral Block || 死んだシカツノサンゴブロック || 枯れた四放サンゴのブロック
+|-
+| Sea Pickle || シーピクルス || ナマコ
+|-
+| Brain Coral || ノウサンゴ || 脳サンゴ
+|-
+| Fire Coral || ミレポラサンゴ || アナサンゴモドキ
+|-
+| Horn Coral || シカツノサンゴ || 四放サンゴ
+|-
+| Dead Tube Coral || 死んだクダサンゴ || 枯れたクダサンゴ
+|-
+| Dead Brain Coral || 死んだノウサンゴ || 枯れた脳サンゴ
+|-
+| Dead Bubble Coral || 死んだミズタマサンゴ || 枯れたミズタマサンゴ
+|-
+| Dead Fire Coral || 死んだミレポラサンゴ || 枯れたアナサンゴモドキ
+|-
+| Dead Horn Coral || 死んだシカツノサンゴ || 枯れた四放サンゴ
+|-
+| Tube Coral Fan || クダウチワサンゴ || 軟質クダサンゴ
+|-
+| Brain Coral Fan || ノウウチワサンゴ || 軟質脳サンゴ
+|-
+| Bubble Coral Fan || ミズタマウチワサンゴ || 軟質ミズタマサンゴ
+|-
+| Fire Coral Fan || ミレポラウチワサンゴ || 軟質アナサンゴモドキ
+|-
+| Horn Coral Fan || シカツノウチワサンゴ || 軟質四放サンゴ
+|-
+| Dead Tube Coral Fan || 死んだクダウチワサンゴ || 枯れた軟質クダサンゴ
+|-
+| Dead Brain Coral Fan || 死んだノウウチワサンゴ || 枯れた軟質脳サンゴ
+|-
+| Dead Bubble Coral Fan || 死んだミズタマウチワサンゴ || 枯れた軟質ミズタマサンゴ
+|-
+| Dead Fire Coral Fan || 死んだミレポラウチワサンゴ || 枯れた軟質アナサンゴモドキ
+|-
+| Dead Horn Coral Fan || 死んだシカツノウチワサンゴ || 枯れた軟質四放サンゴ
+|-
+| TNT || TNT || TNT 火薬
+|-
+| Torch || 松明 || たいまつ
+|-
+| Oak Trapdoor || オークのトラップドア || 樫の木のトラップドア
+|-
+| Birch Trapdoor || シラカバのトラップドア || 樺の木のトラップドア
+|-
+| Dark Oak Trapdoor || ダークオークのトラップドア || 黒樫の木のトラップドア
+|-
+| Jungle Trapdoor || ジャングルのトラップドア || ジャングルの木のトラップドア
+|-
+| Spruce Trapdoor || トウヒのトラップドア || トウヒの木のトラップドア
+|-
+| Tripwire Hook || トリップワイヤーフック || トリップワイヤー フック
+|-
+| Vines || ツタ || つた
+|-
+| Weeping Vines || しだれツタ || ウィーピングつた
+|-
+| Twisting Vines || ねじれツタ || ねじれたつた
+|-
+| Black Carpet || 黒色のカーペット || 黒のカーペット
+|-
+| Blue Carpet || 青色のカーペット || 青のカーペット
+|-
+| Cyan Carpet || 青緑色のカーペット || 水色のカーペット
+|-
+| Green Carpet || 緑色のカーペット || 緑のカーペット
+|-
+| Lime Carpet || 黄緑色のカーペット || 黄緑のカーペット
+|-
+| Magenta Carpet || 赤紫色のカーペット || 赤紫のカーペット
+|-
+| Orange Carpet || 橙色のカーペット || オレンジのカーペット
+|-
+| Pink Carpet || 桃色のカーペット || ピンクのカーペット
+|-
+| Purple Carpet || 紫色のカーペット || 紫のカーペット
+|-
+| Red Carpet || 赤色のカーペット || 赤のカーペット
+|-
+| White Carpet || 白色のカーペット || 白のカーペット
+|-
+| White Glazed Terracotta || 白色の彩釉テラコッタ || 白の彩釉テラコッタ
+|-
+| Orange Glazed Terracotta || 橙色の彩釉テラコッタ || オレンジの彩釉テラコッタ
+|-
+| Magenta Glazed Terracotta || 赤紫色の彩釉テラコッタ || 赤紫の彩釉テラコッタ
+|-
+| Lime Glazed Terracotta || 黄緑色の彩釉テラコッタ || 黄緑の彩釉テラコッタ
+|-
+| Pink Glazed Terracotta || 桃色の彩釉テラコッタ || ピンクの彩釉テラコッタ
+|-
+| Cyan Glazed Terracotta || 青緑色の彩釉テラコッタ || 水色の彩釉テラコッタ
+|-
+| Purple Glazed Terracotta || 紫色の彩釉テラコッタ || 紫の彩釉テラコッタ
+|-
+| Blue Glazed Terracotta || 青色の彩釉テラコッタ || 青の彩釉テラコッタ
+|-
+| Green Glazed Terracotta || 緑色の彩釉テラコッタ || 緑の彩釉テラコッタ
+|-
+| Red Glazed Terracotta || 赤色の彩釉テラコッタ || 赤の彩釉テラコッタ
+|-
+| Black Glazed Terracotta || 黒色の彩釉テラコッタ || 黒の彩釉テラコッタ
+|-
+| Black Concrete || 黒色のコンクリート || 黒のコンクリート
+|-
+| Red Concrete || 赤色のコンクリート || 赤のコンクリート
+|-
+| Green Concrete || 緑色のコンクリート || 緑のコンクリート
+|-
+| Blue Concrete || 青色のコンクリート || 青のコンクリート
+|-
+| Purple Concrete || 紫色のコンクリート || 紫のコンクリート
+|-
+| Cyan Concrete || 青緑色のコンクリート || 水色のコンクリート
+|-
+| Pink Concrete || 桃色のコンクリート || ピンクのコンクリート
+|-
+| Lime Concrete || 黄緑色のコンクリート || 黄緑のコンクリート
+|-
+| Magenta Concrete || 赤紫色のコンクリート || 赤紫のコンクリート
+|-
+| Orange Concrete || 橙色のコンクリート || オレンジのコンクリート
+|-
+| White Concrete || 白色のコンクリート || 白のコンクリート
+|-
+| Black Concrete Powder || 黒色のコンクリートパウダー || 黒のコンクリート パウダー
+|-
+| Red Concrete Powder || 赤色のコンクリートパウダー || 赤のコンクリート パウダー
+|-
+| Green Concrete Powder || 緑色のコンクリートパウダー || 緑のコンクリート パウダー
+|-
+| Brown Concrete Powder || 茶色のコンクリートパウダー || 茶色のコンクリート パウダー
+|-
+| Blue Concrete Powder || 青色のコンクリートパウダー || 青のコンクリート パウダー
+|-
+| Purple Concrete Powder || 紫色のコンクリートパウダー || 紫のコンクリート パウダー
+|-
+| Cyan Concrete Powder || 青緑色のコンクリートパウダー || 水色のコンクリート パウダー
+|-
+| Light Gray Concrete Powder || 薄灰色のコンクリートパウダー || 薄灰色のコンクリート パウダー
+|-
+| Gray Concrete Powder || 灰色のコンクリートパウダー || 灰色のコンクリート パウダー
+|-
+| Pink Concrete Powder || 桃色のコンクリートパウダー || ピンクのコンクリート パウダー
+|-
+| Lime Concrete Powder || 黄緑色のコンクリートパウダー || 黄緑のコンクリート パウダー
+|-
+| Yellow Concrete Powder || 黄色のコンクリートパウダー || 黄色のコンクリート パウダー
+|-
+| Light Blue Concrete Powder || 空色のコンクリートパウダー || 空色のコンクリート パウダー
+|-
+| Magenta Concrete Powder || 赤紫色のコンクリートパウダー || 赤紫のコンクリート パウダー
+|-
+| Orange Concrete Powder || 橙色のコンクリートパウダー || オレンジのコンクリート パウダー
+|-
+| White Concrete Powder || 白色のコンクリートパウダー || 白のコンクリート パウダー
+|-
+| Stripped Spruce Log || 樹皮を剥いだトウヒの原木 || 皮のはがれたトウヒの丸太
+|-
+| Stripped Dark Oak Log || 樹皮を剥いだダークオークの原木 || 皮のはがれた黒樫の丸太
+|-
+| Stripped Birch Log || 樹皮を剥いだシラカバの原木 || 皮のはがれた樺の丸太
+|-
+| Stripped Jungle Log || 樹皮を剥いだジャングルの原木 || 皮のはがれたジャングルの丸太
+|-
+| Stripped Oak Log || 樹皮を剥いだオークの原木 || 皮のはがれた樫の丸太
+|-
+| Stripped Acacia Log || 樹皮を剥いだアカシアの原木 || 皮のはがれたアカシアの丸太
+|-
+| Grindstone || 砥石 || 石臼
+|-
+| Campfire || 焚き火 || たき火
+|-
+| Sweet Berry Bush || スイートベリーの低木 || スイート ベリーの茂み
+|-
+| Oak Wood || オークの木 || 樫の木
+|-
+| Birch Wood || シラカバの木 || 樺の木
+|-
+| Acacia Wood || アカシアの木 || アカシアの原木
+|-
+| Dark Oak Wood || ダークオークの木 || 黒樫の木
+|-
+| Stripped Oak Wood || 樹皮を剥いだオークの木 || 皮のはがれた樫の木
+|-
+| Stripped Spruce Wood || 樹皮を剥いだトウヒの木 || 皮のはがれたトウヒの木
+|-
+| Stripped Birch Wood || 樹皮を剥いだシラカバの木 || 皮のはがれた樺の木
+|-
+| Stripped Jungle Wood || 樹皮を剥いだジャングルの木 || 皮のはがれたジャングルの木
+|-
+| Stripped Acacia Wood || 樹皮を剥いだアカシアの木 || 皮のはがれたアカシアの原木
+|-
+| Stripped Dark Oak Wood || 樹皮を剥いだダークオークの木 || 皮のはがれた黒樫の木
+|-
+| Block of Netherite || ネザライトブロック || ネザライトのブロック
+|-
+| Ancient Debris || 古代の残骸 || 古代のがれき
+|-
+| Nether Gold Ore || ネザー金鉱石 || ネザーゴールド鉱石
+|-
+| Respawn Anchor || リスポーンアンカー || リスポーン アンカー
+|-
+| Arrow of Invisibility || 透明化の矢 || 不可視の矢
+|-
+| Arrow of Swiftness || 俊敏の矢 || スピードの矢
+|-
+| Arrow of Splashing || 水の矢 || 飛び散る矢
+|-
+| Arrow of Healing || 治癒の矢 || 回復の矢
+|-
+| Arrow of Harming || 負傷の矢 || ダメージの矢
+|-
+| Arrow of Weakness || 弱化の矢 || 弱体化の矢
+|-
+| Arrow of the Turtle Master || タートルマスターの矢 || 亀使いの矢
+|-
+| Structure Name || ストラクチャー名 || 構造体の名前
+|-
+| Show Bounding Box: || 境界線を表示する： || 構造体の境界線を表示:
+|-
+| Old graphics card detected; this may prevent you from || 古いビデオカードが検出されました。将来的にOpenGL 3.2 || 古いビデオカードが検出されました。これにより以下のことが拒否された可能性があります:
+|-
+| Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again! || Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again! || プレフィックス、再度 %s%2$s、%s、%1$s 最後に %s および再度 %1$s!
+|-
+| hi % || hi % || こんにちは %
+|-
+| hi %  s || hi %s || こんにちは %  s
+|-
+| Hello, world! || Hello, world! || こんにちは、世界!
+|-
+| world || world || 世界
+|-
+| Server Resource Packs || サーバーリソースパック || サーバー リソース パック
+|-
+| Prompt || 毎回確認 || プロンプト
+|-
+| Novice || 新米 || 未熟者
+|-
+| Journeyman || 一人前 || 熟練者
+|-
+| Expert || 熟練者 || 専門家
+|-
+| Proceed || 続ける || 続行
+|-
+| Glow Squid || ヒカリイカ || 発光するイカ
+|-
+| Copper Ingot || 銅インゴット || 銅の延べ棒
+|-
+| Powder Snow Bucket || 粉雪入りバケツ || 粉雪バケツ
+|-
+| %1$s froze to death || %1$s は凍え死んだ || %1$s は凍えて力尽きた
+|-
+| Pointed Dripstone || 鍾乳石 || 尖ったドリップストーン
+|-
+| Sculk Sensor || スカルクセンサー || スカルク センサー
+|-
+| Azalea Leaves || ツツジの葉 || 
+|-
+| Rooted Dirt || 根付いた土 || 
+|-
+| Hanging Roots || 垂れ根 || 
+|-
+| Moss Block || 苔ブロック || 
+|-
+| Moss Carpet || 苔のカーペット || 
+|-
+| Big Dripleaf || 大きなドリップリーフ || 
+|-
+| Small Dripleaf || 小さなドリップリーフ || 
+|-
+| Spore Blossom || 胞子の花 || 
+|-
+| Glow Berries || グロウベリー || 
+|-
+| %1$s was skewered by a falling stalactite || %1$sは落ちてきた鍾乳石に串刺しにされた || %1$s は落下する鍾乳石に串刺しにされた
+|-
+| Azalea || ツツジ || 
+|-
+| Flowering Azalea || 開花したツツジ || 
+|-
+| %1$s was impaled on a stalagmite || %1$sは石筍の上に突き刺さった || %1$s は石筍に突き刺された
+|-
+| Block of Copper || 銅ブロック || 銅のブロック
+|-
+| Cave Vines || 洞窟のツタ || 
+|-
+| Exposed Copper || 風化した銅 || 露出した銅
+|-
+| Weathered Copper || 錆びた銅 || 風化した銅
+|-
+| Waxed Exposed Copper || 蝋引き済みの風化した銅 || 磨いた露出した銅
+|-
+| Waxed Weathered Copper || 蝋引き済みの錆びた銅 || 磨いた風化した銅
+|-
+| Exposed Cut Copper || 風化した彫金銅 || 露出した切り込み入りの銅
+|-
+| Weathered Cut Copper || 錆びた切り込み入りの銅 || 風化した切り込み入りの銅
+|-
+| Oxidized Cut Copper || 酸化した彫金銅 || 酸化した切り込み入りの銅
+|-
+| Waxed Cut Copper || 錆止めされた切り込み入りの銅 || 磨いた切り込み入りの銅
+|-
+| Waxed Exposed Cut Copper || 蝋引き済みの風化した彫金銅 || 磨いた露出した切り込み入りの銅
+|-
+| Waxed Weathered Cut Copper || 蝋引き済みの錆びた彫金銅 || 磨いた風化した切り込み入りの銅
+|-
+| Cut Copper Stairs || 切り込み入りの銅の階段 || 切り込み入りの銅階段
+|-
+| Exposed Cut Copper Stairs || 風化した切り込み入りの銅の階段 || 露出した切り込み入りの銅階段
+|-
+| Weathered Cut Copper Stairs || 錆びた切り込み入りの銅の階段 || 風化した切り込み入りの銅階段
+|-
+| Oxidized Cut Copper Stairs || 酸化した彫金銅の階段 || 酸化した切り込み入りの銅階段
+|-
+| Waxed Cut Copper Stairs || 錆止めされた切り込み入りの銅の階段 || 磨いた切り込み入りの銅階段
+|-
+| Waxed Exposed Cut Copper Stairs || 錆止めされた風化した切り込み入りの銅の階段 || 磨いた露出した切り込み入りの銅階段
+|-
+| Waxed Weathered Cut Copper Stairs || 錆止めされた錆びた切り込み入りの銅の階段 || 磨いた風化した切り込み入りの銅階段
+|-
+| Cut Copper Slab || 切り込み入りの銅のハーフブロック || 切り込み入りの銅ハーフブロック
+|-
+| Exposed Cut Copper Slab || 風化した切り込み入りの銅のハーフブロック || 露出した切り込み入りの銅ハーフブロック
+|-
+| Weathered Cut Copper Slab || 錆びた切り込み入りの銅のハーフブロック || 風化した切り込み入りの銅ハーフブロック
+|-
+| Oxidized Cut Copper Slab || 酸化した彫金銅のハーフブロック || 酸化した銅ハーフブロック
+|-
+| Waxed Cut Copper Slab || 錆止めされた切り込み入りの銅のハーフブロック || 磨いた切り込み入りの銅ハーフブロック
+|-
+| Waxed Exposed Cut Copper Slab || 錆止めされた風化した切り込み入りの銅のハーフブロック || 磨いた露出した切り込み入りの銅ハーフブロック
+|-
+| Waxed Weathered Cut Copper Slab || 錆止めされた錆びた切り込み入りの銅のハーフブロック || 磨いた風化した切り込み入りの銅ハーフブロック
+|-
+| Glow Ink Sac || 輝くイカスミ || 発光する墨袋
+|-
+| Glow Item Frame || 輝く額縁 || 発光する額縁
+|-
+| Glow Lichen || ヒカリゴケ || 
+|}
