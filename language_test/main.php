@@ -9,8 +9,8 @@ const SHOW_DEBUG_LOG = false;  // デバッグログの出力
 const DEBUG_LOG = './.log';
 
 // バージョン
-const JE_VER = '21w11a';
-const BE_VER = '1.16.230.50';
+const JE_VER = '21w13a';
+const BE_VER = '1.16.230.52';
 
 //===== 本処理 =====//
 unlink('./.log');

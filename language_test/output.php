@@ -6,7 +6,7 @@ $bedrock = json_decode(file_get_contents('./result/bedrock.json'));
 
 // 出力結果の格納変数
 $result_compare = '';
-$result_wiki = "Java EditionとBedrock Edtionの翻訳の差異一覧\n\n{| class=\"wikitable sortable\"\n|-\n! 原文 !! Java Edition（" . JE_VER . "） !! Bedrock Edition（" . BE_VER . "）\n";
+$result_wiki = "Java EditionとBedrock Edtionの翻訳の差異一覧\n\n{| class=\"wikitable sortable\"\n|-\n! 原文 !! Java Edition（[[Java Edition " . JE_VER . "|" . JE_VER . "]]） !! Bedrock Edition（[[Bedrock Edition " . BE_VER . "|" . BE_VER . "]]）\n";
 $result_module = "{\n";
 
 foreach ($bedrock as $key => $word) {
